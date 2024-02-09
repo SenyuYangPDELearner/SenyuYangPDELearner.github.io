@@ -1,7 +1,5 @@
 ## 在东云研究所学习PDE的御坂
 
-<img width="200" alt="profile" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/master/C:/Users/Administrator/Desktop/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240209142300.jpg">
-
 - 杨森宇，中国<br/>
   Senyu Yang, China
 - WHU 本科 数学<br/>
@@ -11,9 +9,11 @@
 
 ### 拾数集 | Math blog
 
-不定期更新有趣的问题. <font color="Purple">数学里，奇迹和魔法都是存在的！</font>
+不定期更新有趣的问题. 数学里，<font color="Pink">奇迹</font>和<font color="Purple">魔法 </font>都是存在的！
 
-### 讨论班资源 | Files of seminar
+[(创刊&除夕特辑)华灯璀璨]()
+
+### 萃梦想 | Files of seminar
 
 以下是本人主讲的讨论班的PDF/录像，欢迎交流指正.
 
@@ -24,10 +24,10 @@
   [笔记补充](https://www.bilibili.com/read/cv27084665/)<br/>
   讨论班教材：[R.Danchin-Fourier Analysis Methods for PDEs](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)<br/>
 
-### 生活 | Daily life
-- 写点数学blog
-- 足球 Bayern fans，<font color="Red">mia san mia!</font>mia san mia! Tomas Müller♡
-- ACGN 魔法禁书目录，EVA新世纪福音战士，东方Project，日常(nijijou)，PVZ. 感谢你们的陪伴(^^
+### 数之外 | Daily life
+- FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
+- 魔法禁书目录，EVA，东方Project，日常，PVZ. 有你们的陪伴(^^
+<img width="200" alt="profile" src="https://github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/blob/main/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240209142300.jpg">
 
 
 ### 联系方式
