@@ -1,19 +1,20 @@
-## 在东云研究所学习PDE的御坂
+## 在东云研究所学习PDE的YSY
 
 - 杨森宇，中国<br/>
   Senyu Yang, China
 - WHU 本科 数学<br/>
   WHU Undergraduated Mathematics
-- 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，以及背后的几何与物理.<br/>
+- 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，相关的几何与物理.<br/>
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and phyiscs behind them.
 
-### 拾数集 | Math blog
+### 拾数集 | Math Blog
 
-不定期更新有趣的问题. 数学里，<font color="Pink">奇迹</font>和<font color="Purple">魔法 </font>都是存在的！
+这是不定期更新的数学科普blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法 </font>都是存在的！
 
-[(创刊&除夕特辑)华灯璀璨]()
+- [(创刊&2024龙年春节特辑)华灯高照：如何照亮球的外表面]()<br/>
+  To be released...
 
-### 萃梦想 | Files of seminar
+### 萃梦想 | Files of Seminars
 
 以下是本人主讲的讨论班的PDF/录像，欢迎交流指正.
 
@@ -23,13 +24,14 @@
   [录像合集](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)<br/>
   [笔记补充](https://www.bilibili.com/read/cv27084665/)<br/>
   讨论班教材：[R.Danchin-Fourier Analysis Methods for PDEs](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)<br/>
+- 2023-2024春季学期(spring semester): 非线性波方程：能量，几何与色散<br/>
+  筹划中...
 
-### 数之外 | Daily life
+### 数之外 | Daily Life
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
-- 魔法禁书目录，EVA，东方Project，日常，PVZ. 有你们的陪伴(^^
-<img width="200" alt="profile" src="https://github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/blob/main/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240209142300.jpg">
+- 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
 
 
-### 联系方式
+### 雁传书 | Contact Form
 
 - 邮箱：ysydyx12345@163.com
