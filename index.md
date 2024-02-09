@@ -5,7 +5,7 @@
 - WHU 本科 数学<br/>
   WHU Undergraduated Mathematics
 - 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，相关的几何与物理.<br/>
-  Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and phyiscs behind them.
+  Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
 
 ### 拾数集 | Math Blog
 
