@@ -30,7 +30,7 @@
 ### 半日闲 | Daily Life
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
 - 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
-- <img width="200" alt="profile" scr="https://github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/images/hakase.jpg">
+- <img width="200" alt="profile" scr="https://github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/hakase.jpg">
 
 ### 雁传书 | Contact Forms
 
