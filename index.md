@@ -11,7 +11,7 @@
 
 这是不定期更新的数学科普blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法 </font>都是存在的！
 
-- [(创刊&2024龙年春节特辑)华灯高照：如何照亮球的外表面]()<br/>
+- [(创刊&2024春节特辑)张灯结彩：如何照亮球的外表面]()<br/>
   To be released...
 
 ### 萃梦想 | Files of Seminars
@@ -25,13 +25,13 @@
   [笔记补充](https://www.bilibili.com/read/cv27084665/)<br/>
   讨论班教材：[R.Danchin-Fourier Analysis Methods for PDEs](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)<br/>
 - 2023-2024春季学期(spring semester): 非线性波方程：能量，几何与色散<br/>
-  筹划中...
+  <font color="red">筹划中...</font>
 
-### 数之外 | Daily Life
+### 半日闲 | Daily Life
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
 - 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
+- <img width="200" alt="profile" scr="https://github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/blob/main/images/hakase.jpg">
 
-
-### 雁传书 | Contact Form
+### 雁传书 | Contact Forms
 
 - 邮箱：ysydyx12345@163.com
