@@ -6,7 +6,6 @@
   WHU Undergraduated Mathematics
 - 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，相关的几何与物理.<br/>
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.<br/>
-  $$\partial_{mu}m^{\mu\nu}P_{\nu}=\Box uXu+\frac{1}{2} Q[u]^{\mu\nu}\pi_{\mu\nu}^{(X)} $$
   
 ### 拾数集 | Math Blog
 
