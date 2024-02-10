@@ -7,8 +7,7 @@
 - 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，相关的几何与物理.<br/>
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.<br/>
   $$\partial_{mu}m^{\mu\nu}P_{\nu}=\Box uXu+\frac{1}{2} Q[u]^{\mu\nu}\pi_{\mu\nu}^{(X)} $$
-  $$ \left\lvert u\right\rvert_{L_t^qL_x^r}\leq \left\lvert f\right\rvert_{\dot{H}^s}+\left\lvert g\right\rvert_{\dot{H}^{s-1}}+\left\lvert \Box u\right\rvert_{L_t^{q'}L_x^{r'}} $$
-
+  
 ### 拾数集 | Math Blog
 
 这是不定期更新的数学科普blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
