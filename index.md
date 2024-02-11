@@ -1,4 +1,4 @@
-## 在东云研究所学习PDE的YSY
+# 在东云研究所学习PDE的YSY
 
 - 杨森宇，中国<br/>
   Senyu Yang, China
@@ -7,14 +7,14 @@
 - 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，相关的几何与物理.<br/>
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.<br/>
   
-### 拾数集 | Math Blog
+## 拾数集 | Math Blog
 
 这是不定期更新的数学科普blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
 
 - [(创刊&2024春节特辑)张灯结彩：如何照亮球的外表面]()<br/>
   To be released...
 
-### 萃梦想 | Files of Seminars
+## 萃梦想 | Files of Seminars
 
 以下是本人主讲的讨论班的PDF/录像，欢迎交流指正.
 
@@ -26,11 +26,11 @@
 - 2023-2024春季学期(spring semester): 非线性波方程：能量，几何与色散<br/>
   <font color="red">筹划中...</font>
 
-### 半日闲 | Daily Life
+## 半日闲 | Daily Life
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
 - 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
   ![](https://github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/blob/main/images/misaka.jpg)
 
-### 雁传书 | Contact Forms
+## 雁传书 | Contact Forms
 
 - 邮箱：ysydyx12345@163.com
