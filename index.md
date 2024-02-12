@@ -24,6 +24,12 @@
 
   $$
   \Vert u\Vert_{L_t^qL_x^r}\leq C(\Vert u\mid_{t=0}\Vert_{\dot{H}^s}+\Vert \partial_t u\mid_{t=0}\Vert_{\dot{H}^{s-1}}+\Vert \Box u\Vert_{L_t^{q'}L_x^{r'}})$$
+
+## 雁传书 | Contact
+
+- 邮箱：ysydyx12345@163.com
+- 知乎：[御坂11407号](https://www.zhihu.com/people/syy-24-75)
+- B站：[御坂11407号](https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0)
   
 ## 拾数集 | Math Blog
 
@@ -47,9 +53,3 @@
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
 - 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/3.png">
-
-## 雁传书 | Contact
-
-- 邮箱：ysydyx12345@163.com
-- 知乎：[御坂11407号](https://www.zhihu.com/people/syy-24-75)
-- B站：[御坂11407号](https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0)
