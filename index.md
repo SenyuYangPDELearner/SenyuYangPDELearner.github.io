@@ -12,7 +12,7 @@ zoom: 1;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
-  opacity: 0.2;
+  opacity: 0.3;
   }
 </style>
 <head>
