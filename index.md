@@ -1,3 +1,19 @@
+<style>
+.bjmg{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+height:100%;
+min-width: 1000px;
+z-index:-10;
+zoom: 1;
+  background-image: url(https://i0.hdslb.com/bfs/article/d0fb73d2b85ce5a39b8e97601b30e29fdb69f5af.jpg@1256w_754h_!web-article-pic.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center 0;
+  }
+</style>
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -9,11 +25,7 @@
         });
     </script>
 </head>
-<body background="https://i0.hdslb.com/bfs/article/d0fb73d2b85ce5a39b8e97601b30e29fdb69f5af.jpg@1256w_754h_!web-article-pic.webp"
-      style="background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: contain" >
-</body>
+<div class="bjimg"></div>
 
 # 在東雲研究所学习PDE的YSY | About Me
 
