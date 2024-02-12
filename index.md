@@ -46,7 +46,7 @@
 ## 半日闲 | Hobbies
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
 - 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！<br/>
-  <img width="1000" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/3.png">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/3.png">
 
 ## 雁传书 | Contact
 
