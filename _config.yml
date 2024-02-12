@@ -1,6 +1,6 @@
 markdown: kramdown
 title: Shinonome Lab, funded by NERV
-background="https://i0.hdslb.com/bfs/article/d0fb73d2b85ce5a39b8e97601b30e29fdb69f5af.jpg@1256w_754h_!web-article-pic.webp"
-      style="background-repeat: no-repeat";
-      background-attachment: fixed;
-      background-size: contain
+$("body").css('background-image', `url(https://i0.hdslb.com/bfs/article/d0fb73d2b85ce5a39b8e97601b30e29fdb69f5af.jpg@1256w_754h_!web-article-pic.webp)`);
+    $("body").css('background-repeat', `no-repeat`);    
+    $("body").css('background-size', `cotain`);
+    $("body").css('background-attachment', `fixed`)
