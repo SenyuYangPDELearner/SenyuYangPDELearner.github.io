@@ -52,4 +52,4 @@
 
 - 邮箱：ysydyx12345@163.com
 - 知乎：[御坂11407号](https://www.zhihu.com/people/syy-24-75)
-- B站：[御坂11407号]()
+- B站：[御坂11407号](https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0)
