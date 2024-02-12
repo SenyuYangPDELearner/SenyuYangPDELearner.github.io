@@ -12,9 +12,9 @@
 
 # 在東雲研究所学习PDE的YSY | About Me
 <figure>
-<img src="https://i0.hdslb.com/bfs/article/54207ee2a8f56077f20b00644927335c2ae32949.png@1256w_1120h_!web-article-pic.webp">
-<img src="https://i0.hdslb.com/bfs/article/50f8d433dacb4ab6f928138f4bc400cb4bd25bf3.png@1256w_688h_!web-article-pic.webp">
-<img src="https://i0.hdslb.com/bfs/article/f1ae359333060212fc559fe7f98be7b60693170a.png@1256w_1086h_!web-article-pic.webp">
+<img width="300" src="https://i0.hdslb.com/bfs/article/54207ee2a8f56077f20b00644927335c2ae32949.png@1256w_1120h_!web-article-pic.webp">
+<img width="300" src="https://i0.hdslb.com/bfs/article/50f8d433dacb4ab6f928138f4bc400cb4bd25bf3.png@1256w_688h_!web-article-pic.webp">
+<img width="300" src="https://i0.hdslb.com/bfs/article/f1ae359333060212fc559fe7f98be7b60693170a.png@1256w_1086h_!web-article-pic.webp">
 </figure>
 - 杨森宇，中国<br/>
   Senyu Yang, China
