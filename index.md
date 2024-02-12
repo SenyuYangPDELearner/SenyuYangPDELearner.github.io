@@ -12,7 +12,7 @@
 
 # 在東雲研究所学习PDE的YSY | About Me
 <figure>
-<img width="200" src="https://p1.ssl.qhimg.com/dr/270_500_/t010735d656ff441148.jpg?size=268x168">
+<img src="http://tiebapic.baidu.com/forum/w%3D580/sign=5eee47b77009c93d07f20effaf3cf8bb/5828fbd3572c11df3e15b29a742762d0f503c2b0.jpg?tbpicau=2024-02-14-05_fc4a0246bea7db3de2d9c03cf9f2cda1">
 <img width="150" src="https://avatars.githubusercontent.com/u/159515401?v=4">
 </figure>
 - 杨森宇，中国<br/>
@@ -55,4 +55,4 @@
 ## 半日闲 | Hobbies
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
 - 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
-  <img src="https://picx.zhimg.com/v2-c76d54b1c0c465b0227e128b4719a148_1440w.jpg?source=32738c0c">
+  <img width="1000" src="https://picx.zhimg.com/v2-c76d54b1c0c465b0227e128b4719a148_1440w.jpg?source=32738c0c">
