@@ -12,7 +12,6 @@
 一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
 
 - [(创刊&2024春节特辑)张灯结彩：如何照亮球的外表面](https://SenyuYangPDELearner.github.io/blog1/)<br/>
-  <font size=2 color="red">To be released...</font>
 
 ## 萃梦想 | Seminars
 
