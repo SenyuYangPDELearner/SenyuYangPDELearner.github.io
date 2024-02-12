@@ -11,7 +11,9 @@
 </head>
 
 # 在東雲研究所学习PDE的YSY | About Me
-<img width="200" src="https://avatars.githubusercontent.com/u/159515401?v=4">
+<div align=right>
+<img width="200" src="https://avatars.githubusercontent.com/u/159515401?v=4"_right>
+</div>
 - 杨森宇，中国<br/>
   Senyu Yang, China
 - WHU 本科 数学<br/>
