@@ -9,6 +9,11 @@
         });
     </script>
 </head>
+<body background="https://i0.hdslb.com/bfs/article/d0fb73d2b85ce5a39b8e97601b30e29fdb69f5af.jpg@1256w_754h_!web-article-pic.webp"
+      style="background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: contain" >
+</body>
 
 # 在東雲研究所学习PDE的YSY | About Me
 
