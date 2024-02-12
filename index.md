@@ -12,7 +12,7 @@
 
 # 在東雲研究所学习PDE的YSY | About Me
 <figure>
-<img width="150" src="https://p1.ssl.qhimg.com/dr/270_500_/t010735d656ff441148.jpg?size=268x168">
+<img width="200" src="https://p1.ssl.qhimg.com/dr/270_500_/t010735d656ff441148.jpg?size=268x168">
 <img width="150" src="https://avatars.githubusercontent.com/u/159515401?v=4">
 </figure>
 - 杨森宇，中国<br/>
