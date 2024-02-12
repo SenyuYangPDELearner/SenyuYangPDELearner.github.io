@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://i0.hdslb.com/bfs/article/d0fb73d2b85ce5a39b8e97601b30e29fdb69f5af.jpg@1256w_754h_!web-article-pic.webp);
+  background-image: url(https://wallpapercave.com/wp/wp2350843.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
@@ -46,7 +46,7 @@ zoom: 1;
 
 一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
 
-- [(创刊&2024春节特辑)张灯结彩：如何照亮球的外表面](https://SenyuYangPDELearner.github.io/)<br/>
+- [(创刊&2024春节特辑)张灯结彩：如何照亮球的外表面](https://SenyuYangPDELearner.github.io/blog1/)<br/>
 
 ## 萃梦想 | Seminars
 
