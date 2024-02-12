@@ -16,7 +16,7 @@
   Senyu Yang, China
 - WHU 本科 数学<br/>
   WHU Undergraduated Mathematics
-- 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，相关的几何与物理.<br/>
+- 兴趣: 双曲型偏微分方程(非线性波，广义相对论，可压缩流体，...)，相关的几何与物理.<br/>
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
 
   $$
@@ -45,8 +45,8 @@
 
 ## 半日闲 | Hobbies
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
-- 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
-  <img width="500" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/3.png">
+- 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！<br/>
+  <img width="1000" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/3.png">
 
 ## 雁传书 | Contact
 
