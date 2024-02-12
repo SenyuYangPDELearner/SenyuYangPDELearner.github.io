@@ -23,7 +23,7 @@
   \partial_{\mu}P^{\mu}=\Box uXu+\frac{1}{2} Q[u]_{\mu\nu}\pi_{\mu\nu}^{(X)}$$
 
   $$
-  \left\Lvert u\right\Rvert_{L_t^qL_x^r}\lessim \left\Lvert u\mid_{t=0}\right\Rvert_{\dot{H}^s}+\left\lvert \partial_t u\mid_{t=0}\right\Rvert_{\dot{H}^{s-1}}+\left\Lvert \Box u\right\Rvert_{L_t^{q'}L_x^{r'}}$$
+  \Vert u\Vert_{L_t^qL_x^r}\lessim \Vert u\mid_{t=0}\Vert_{\dot{H}^s}+\Vert \partial_t u\mid_{t=0}\Vert_{\dot{H}^{s-1}}+\Vert \Box u\Vert_{L_t^{q'}L_x^{r'}}$$
   
 ## 拾数集 | Math Blog
 
