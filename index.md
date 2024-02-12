@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://wallpapercave.com/wp/wp2350853.jpg);
+  background-image: url(https://i0.hdslb.com/bfs/article/d0fb73d2b85ce5a39b8e97601b30e29fdb69f5af.jpg@1256w_754h_!web-article-pic.webp);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
