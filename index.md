@@ -20,7 +20,7 @@
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
 
   $$
-  \partial_{\mu}P^{\mu}=\Box uXu+\frac{1}{2} Q[u]_{\mu\nu}\pi_{\mu\nu}^{(X)}$$
+  (1+t+\vert x\vert)^{n-1}(1+\vert t-x\vert)\vert u(t,x)\vert^{2}\leq C\sum_{\vert\alpha\vert\leq \frac{n+2}{2}} \Vert \Gamma^{\alpha}u(t,\cdot)\Vert_{L^2}^2$$
 
   $$
   \Vert u\Vert_{L_t^qL_x^r}\leq C(\Vert u\mid_{t=0}\Vert_{\dot{H}^s}+\Vert \partial_t u\mid_{t=0}\Vert_{\dot{H}^{s-1}}+\Vert \Box u\Vert_{L_t^{q'}L_x^{r'}})$$
@@ -45,7 +45,7 @@
 
 ## 半日闲 | Hobbies
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
-- 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！<br/>
+- 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/3.png">
 
 ## 雁传书 | Contact
