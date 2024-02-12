@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 # 在東雲研究所学习PDE的YSY | About Me
 <img width="200" src="https://avatars.githubusercontent.com/u/159515401?v=4">
 - 杨森宇，中国<br/>
@@ -11,7 +22,7 @@
 
 一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
 
-- [(创刊&2024春节特辑)张灯结彩：如何照亮球的外表面](https://SenyuYangPDELearner.github.io/blog1)<br/>
+- [(创刊&2024春节特辑)张灯结彩：如何照亮球的外表面](https://SenyuYangPDELearner.github.io/)<br/>
   <font size=2 color="red">To be released...</font>
 
 ## 萃梦想 | Seminars
