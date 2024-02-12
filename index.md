@@ -9,6 +9,7 @@
         });
     </script>
 </head>
+
 # 在東雲研究所学习PDE的YSY | About Me
 <img width="200" src="https://avatars.githubusercontent.com/u/159515401?v=4">
 - 杨森宇，中国<br/>
@@ -19,7 +20,10 @@
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
 
   $$
-  \partial_{mu}P^{\mu}=\Box uXu+\frac{1}{2} Q[u]_{\mu\nu}\pi_{\mu\nu}^{(X)}$$
+  \partial_{\mu}P^{\mu}=\Box uXu+\frac{1}{2} Q[u]_{\mu\nu}\pi_{\mu\nu}^{(X)}$$
+
+  $$
+  \left\Lvert u\right\Rvert_{L_t^qL_x^r}\lessim \left\Lvert u\mid_{t=0}\right\Rvert_{\dot{H}^s}+\left\lvert \partial_t u\mid_{t=0}\right\Rvert_{\dot{H}^{s-1}}+\left\Lvert \Box u\right\Rvert_{L_t^{q'}L_x^{r'}}$$
   
 ## 拾数集 | Math Blog
 
