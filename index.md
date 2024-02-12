@@ -12,8 +12,9 @@
 
 # 在東雲研究所学习PDE的YSY | About Me
 <figure>
-<img src="http://tiebapic.baidu.com/forum/w%3D580/sign=5eee47b77009c93d07f20effaf3cf8bb/5828fbd3572c11df3e15b29a742762d0f503c2b0.jpg?tbpicau=2024-02-14-05_fc4a0246bea7db3de2d9c03cf9f2cda1">
-<img width="150" src="https://avatars.githubusercontent.com/u/159515401?v=4">
+<img src="https://i0.hdslb.com/bfs/article/54207ee2a8f56077f20b00644927335c2ae32949.png@1256w_1120h_!web-article-pic.webp">
+<img src="https://i0.hdslb.com/bfs/article/50f8d433dacb4ab6f928138f4bc400cb4bd25bf3.png@1256w_688h_!web-article-pic.webp">
+<img src="https://i0.hdslb.com/bfs/article/f1ae359333060212fc559fe7f98be7b60693170a.png@1256w_1086h_!web-article-pic.webp">
 </figure>
 - 杨森宇，中国<br/>
   Senyu Yang, China
@@ -55,4 +56,4 @@
 ## 半日闲 | Hobbies
 - FC Bayern, <font color="Red">mia san mia!</font> Tomas Müller♡
 - 魔法与科学交汇之时，故事从此开始！某系列20周年快乐！
-  <img width="1000" src="https://picx.zhimg.com/v2-c76d54b1c0c465b0227e128b4719a148_1440w.jpg?source=32738c0c">
+  <img width="900" src="https://picx.zhimg.com/v2-c76d54b1c0c465b0227e128b4719a148_1440w.jpg?source=32738c0c">
