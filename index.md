@@ -1,14 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
 # 在東雲研究所学习PDE的YSY | About Me
 <img width="200" src="https://avatars.githubusercontent.com/u/159515401?v=4">
 - 杨森宇，中国<br/>
@@ -16,9 +5,7 @@
 - WHU 本科 数学<br/>
   WHU Undergraduated Mathematics
 - 兴趣: 双曲型偏微分方程(非线性波，爱因斯坦引力场方程，可压缩流体，...)，相关的几何与物理.<br/>
-  Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.<br/>
-<br/>
-$$ \partial_{\mu}P^{\mu}=\Box u Xu+\frac{1}{2}Q[u]^{\mu\nu}\pi_{\mu\nu}^{(X)}, P_{\mu}:=Q[u]_{\mu\nu}X^{\nu}$$
+  Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
   
 ## 拾数集 | Math Blog
 
