@@ -11,23 +11,13 @@
 </head>
 
 # 在東雲研究所学习PDE的YSY | About Me
-<figure>
-<img width="200" src="https://i0.hdslb.com/bfs/article/54207ee2a8f56077f20b00644927335c2ae32949.png@1256w_1120h_!web-article-pic.webp">
-<img width="300" src="https://i0.hdslb.com/bfs/article/50f8d433dacb4ab6f928138f4bc400cb4bd25bf3.png@1256w_688h_!web-article-pic.webp">
-<img width="200" src="https://i0.hdslb.com/bfs/article/f1ae359333060212fc559fe7f98be7b60693170a.png@1256w_1086h_!web-article-pic.webp">
-</figure>
+
 - 杨森宇，中国<br/>
   Senyu Yang, China
 - WHU 本科 数学<br/>
   WHU Undergraduated Mathematics
 - 兴趣: 双曲型偏微分方程(非线性波，广义相对论，可压缩流体，...)，相关的几何与物理.<br/>
   Interest: Hyperbolic PDEs(nonlinear waves, Einstein equation of general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
-
-  $$
-  (1+t+\vert x\vert)^{n-1}(1+\vert t-x\vert)\vert u(t,x)\vert^{2}\leq C\sum_{\vert\alpha\vert\leq \frac{n+2}{2}} \Vert \Gamma^{\alpha}u(t,\cdot)\Vert_{L^2}^2$$
-
-  $$
-  \Vert u\Vert_{L_t^qL_x^r}\leq C(\Vert u\mid_{t=0}\Vert_{\dot{H}^s}+\Vert \partial_t u\mid_{t=0}\Vert_{\dot{H}^{s-1}}+\Vert \Box u\Vert_{L_t^{q'}L_x^{r'}})$$
 
 ## 雁传书 | Contact
 
