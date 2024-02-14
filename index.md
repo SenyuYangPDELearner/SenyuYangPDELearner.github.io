@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://wallpapercave.com/wp/wp2350843.png);
+  background-image: url(https://b.zol-img.com.cn/sjbizhi/images/8/750x530/1422008122466.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
@@ -27,8 +27,6 @@ zoom: 1;
     </script>
 </head>
 <div class="bjimg"></div>
-
-# 在東雲研究所学习PDE的YSY | About Me
 
 - 杨森宇，中国<br/>
   Senyu Yang, China
