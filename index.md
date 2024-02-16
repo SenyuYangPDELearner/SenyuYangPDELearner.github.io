@@ -37,9 +37,9 @@ zoom: 1;
 
 ## 雁传书 | Contact
 
-- 邮箱 | e-mail：ysydyx12345@163.com
-- 知乎 | Zhihu：[御坂11407号](https://www.zhihu.com/people/syy-24-75)
-- B站 | Bilibili：[御坂11407号](https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0)
+- 邮箱 mail：ysydyx12345@163.com
+- 知乎 Zhihu：[御坂11407号](https://www.zhihu.com/people/syy-24-75)
+- B站 Bilibili：[御坂11407号](https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0)
   
 ## 拾数集 | Math Blog
 
