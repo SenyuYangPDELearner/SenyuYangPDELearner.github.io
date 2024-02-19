@@ -66,7 +66,7 @@ zoom: 1;
    [Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)<br/>
    [Addition](https://www.bilibili.com/read/cv27084665/)
 
-- 2023-2024 spring<br\>
+- 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/1.pdf)
    <font size=2 color="red">Preparing...</font>
