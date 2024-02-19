@@ -46,7 +46,8 @@ zoom: 1;
 一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
 
 - [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<br/>
-- 组合学的多项式方法：有限域的Kakeya猜想(<font size=2 color="red">To be released</font>)
+- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<br/>
+- 
 
 ## 萃梦想 | Seminars
 
