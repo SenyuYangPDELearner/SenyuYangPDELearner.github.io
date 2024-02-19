@@ -49,7 +49,7 @@ zoom: 1;
 
 - [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<br/>
 
-- 
+- To be released...
 
 ## 萃梦想 | Seminars
 
