@@ -73,5 +73,5 @@ zoom: 1;
 ## 半日闲 | Hobbies
 - Mia san mia! Thomas Müller♡
 
-- 魔法与科学交汇之时，故事从此开始. 某系列20周年快乐！
-  <img width="600" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/Novel1.jpg">
+- 魔法与科学交汇之时，故事从此开始. 某系列20周年快乐！<br/>
+  <img width="400" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/Novel1.jpg">
