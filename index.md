@@ -54,9 +54,7 @@ zoom: 1;
 - 2022-2023 summer<br/>
   Fourier分析与非线性PDE：从Littlewood-Paley分解到Navier-Stokes方程组 | Fourier analysis and nonlinear PDEs: from Littlewood-Paley 
   decomposition to Navier-Stokes equations<br/>
-   [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)<br/>
-   [Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)<br/>
-   [Addition](https://www.bilibili.com/read/cv27084665/)
+   [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)    [Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)    [Addition text](https://www.bilibili.com/read/cv27084665/)
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Preparing...</font>
