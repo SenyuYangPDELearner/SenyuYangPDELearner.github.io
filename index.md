@@ -36,14 +36,6 @@ zoom: 1;
   Interest: hyperbolic PDEs(nonlinear waves, general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
 - 邮箱 mail：ysydyx12345@163.com
 
-## 拾数集 | Math Blog
-
-一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
-
-- [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<font size="2">2024.2.12</font> <br/>
-- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<font size="2">2024.2.19</font> <br/>
-- To be released...
-
 ## 萃梦想 | Seminars
 
 以下是本人主讲的讨论班的PDF/录像，欢迎交流指正.
@@ -58,6 +50,14 @@ zoom: 1;
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Preparing...</font>
+
+## 拾数集 | Math Blog
+
+一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
+
+- [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<font size="2">2024.2.12</font> <br/>
+- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<font size="2">2024.2.19</font> <br/>
+- To be released...
 
 ## 半日闲 | Hobbies
 - Mia san mia! Thomas Müller♡
