@@ -33,7 +33,7 @@ zoom: 1;
 - 武汉大学-本科-数学<br/>
   WHU-Undergraduated-Mathematics
 - 兴趣: 双曲型偏微分方程(非线性波，广义相对论，可压缩流体，...)，相关的几何与物理.<br/>
-  Interest: hyperbolic PDEs(nonlinear waves, general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
+  Interest: hyperbolic PDEs(nonlinear waves, general relativity, compressible fluids, etc.), the geometry and physics behind them.
 - 邮箱 mail：ysydyx12345@163.com
 
 ## 萃梦想 | Seminars
