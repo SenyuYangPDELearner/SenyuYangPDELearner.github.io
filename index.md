@@ -68,7 +68,8 @@ zoom: 1;
 
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
-   [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)<font size="2" color="red">Preparing...</font>
+   [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)<br/>
+   <font size="2" color="red">Preparing...</font>
 
 ## 半日闲 | Hobbies
 - Mia san mia! Thomas Müller♡
