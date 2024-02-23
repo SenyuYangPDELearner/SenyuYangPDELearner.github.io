@@ -34,23 +34,8 @@ zoom: 1;
   WHU-Undergraduated-Mathematics
 - 兴趣: 双曲型偏微分方程(非线性波，广义相对论，可压缩流体，...)，相关的几何与物理.<br/>
   Interest: hyperbolic PDEs(nonlinear waves, general relativity, compressible fluids, etc.), as well as the geometry and physics behind them.
-
-## 雁传书 | Contact
-
 - 邮箱 mail：ysydyx12345@163.com
-- 知乎 Zhihu：[御坂11407号](https://www.zhihu.com/people/syy-24-75)
-- B站 Bilibili：[御坂11407号](https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0)
   
-## 拾数集 | Math Blog
-
-一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
-
-- [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<font size="2">2024.2.12</font> <br/>
-
-- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<font size="2">2024.2.19</font> <br/>
-
-- To be released...
-
 ## 萃梦想 | Seminars
 
 以下是本人主讲的讨论班的PDF/录像，欢迎交流指正.
@@ -58,20 +43,26 @@ zoom: 1;
 - 2022-2023 fall<br/>
   Fourier变换中的分析 | Analysis relative to Fourier transform<br/>
   [Notes(in Chinese)](https://maths.whu.edu.cn/__local/8/3A/29/E666F656D3A1BB0F6CC873EAA90_780F196C_17408F.pdf)<br/>
-
 - 2022-2023 summer<br/>
   Fourier分析与非线性PDE：从Littlewood-Paley分解到Navier-Stokes方程组 | Fourier analysis and nonlinear PDEs: from Littlewood-Paley 
   decomposition to Navier-Stokes equations<br/>
    [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)<br/>
    [Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)<br/>
    [Addition](https://www.bilibili.com/read/cv27084665/)
-
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Preparing...</font>
 
+## 拾数集 | Math Blog
+
+一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
+
+- [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<font size="2">2024.2.12</font> <br/>
+- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<font size="2">2024.2.19</font> <br/>
+
+- To be released...
+
 ## 半日闲 | Hobbies
 - Mia san mia! Thomas Müller♡
-
 - 魔法与科学交汇之时，故事从此开始. 某系列20周年快乐！<br/>
   <img width="400" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/Novel1.jpg">
