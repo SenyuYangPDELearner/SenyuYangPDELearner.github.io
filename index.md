@@ -45,9 +45,9 @@ zoom: 1;
 
 一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
 
-- [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<br/>
+- [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<font size="2">2024.2.12</font> <br/>
 
-- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<br/>
+- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<font size="2">2024.2.19</font> <br/>
 
 - To be released...
 
@@ -68,7 +68,7 @@ zoom: 1;
 
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
-   [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/1.pdf)<font size=2 color="red">Preparing...</font>
+   [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)<font size="2" color="red">Preparing...</font>
 
 ## 半日闲 | Hobbies
 - Mia san mia! Thomas Müller♡
