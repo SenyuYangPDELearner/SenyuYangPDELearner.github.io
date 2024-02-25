@@ -8,11 +8,11 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://wallpapercave.com/wp/wp2350843.png);
+  background-image: url(https://i0.hdslb.com/bfs/new_dyn/aa934c19d2e56c05c88c540748f50104286279573.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
-  opacity: 0.3;
+  opacity: 0.2;
   }
 </style>
 <head>
