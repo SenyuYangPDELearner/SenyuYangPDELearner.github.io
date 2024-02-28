@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://forum.eva-all.com/-/u/1icrt5g5an/3/u/jl/gnfukws2dhug5pvuz46zowk4zaumhd.jpg);
+  background-image: url(https://wallpapercave.com/wp/wp8738493.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
