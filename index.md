@@ -53,10 +53,11 @@ zoom: 1;
 
 ## 拾数集 | Math Blog
 
-一个不定期更新的数学blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
+一个不定期更新的math blog，会混入零星的杂记. 数学中，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
 
 - [(创刊&2024春节特辑)张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<font size="2">2024.2.12</font> <br/>
 - [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<font size="2">2024.2.19</font> <br/>
+- [杂记3](https://SenyuYangPDELearner.github.io/blog3/)<font size="2">2024.2.28</font> <br/>
 - To be released...
 
 ## 半日闲 | Hobbies
