@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwA);
+  background-image: url(https://forum.eva-all.com/-/u/1icrt5g5an/3/u/jl/gnfukws2dhug5pvuz46zowk4zaumhd.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
