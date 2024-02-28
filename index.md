@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://pic2.zhimg.com/v2-93ef71f4208e538f0fce10bdd57ca845_b.jpg);
+  background-image: url(https://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/8d5494eef01f3a29056a805e9725bc315d607cfb.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
