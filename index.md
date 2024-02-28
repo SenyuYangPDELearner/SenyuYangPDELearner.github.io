@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://pic4.zhimg.com/v2-cbba75810bd5c55b0582fe6e22eb187f_b.jpg);
+  background-image: url(https://pic2.zhimg.com/v2-93ef71f4208e538f0fce10bdd57ca845_b.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
