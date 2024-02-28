@@ -8,11 +8,11 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/8d5494eef01f3a29056a805e9725bc315d607cfb.jpg);
+  background-image: url(https://forum.eva-all.com/-/u/1icrt5g5an/2/l/mb/ayrzwqofyxia4ita536w523inxg3oh.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
-  opacity: 0.2;
+  opacity: 1;
   }
 </style>
 <head>
