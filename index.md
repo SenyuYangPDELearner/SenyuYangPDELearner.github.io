@@ -35,10 +35,10 @@ MathJax.Hub.Config({
 - 兴趣: 双曲&色散偏微分方程，相关的几何与物理.<br/>
   Interest: hyperbolic&dispersive PDEs, the geometry and physics behind them.
 - 邮箱 mail：ysydyx12345@163.com
-        <p>
-	<a href="seminars" target="_blank" style="margin-left: 2px">Seminars</a>
-	<a href="blog" target="_blank">Math Blog</a>
-	<a href="hobbies" target="_blank">Hobbies</a></p>
+  
+<a href="seminars" target="_blank" style="margin-left: 2px">Seminars</a>
+<a href="blog" target="_blank">Math Blog</a>
+<a href="hobbies" target="_blank">Hobbies</a>
 
 ## 萃梦想 | Seminars
 
@@ -54,16 +54,6 @@ MathJax.Hub.Config({
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Preparing...</font>
-
-## 拾数集 | Math Blog
-
-一个不定期更新的math blog. 这里，<font color="Pink">奇迹</font>和<font color="Purple">魔法</font>都是存在的！
-
-- (创刊&2024春节特辑)[张灯结彩：照亮球的外表面需要多少盏灯](https://SenyuYangPDELearner.github.io/blog1/)<font size="2">2024.2.12</font> <br/>
-- [组合学的多项式方法：有限域Kakeya猜想](https://SenyuYangPDELearner.github.io/blog2/)<font size="2">2024.2.19</font> <br/>
-- [杂记3](https://SenyuYangPDELearner.github.io/blog3/)<font size="2">2024.2.28</font> <br/>
-- [杂记3.1](https://SenyuYangPDELearner.github.io/blog4/)<font size="2">2024.3.2</font> <br/>
-- To be released...
 
 ## 半日闲 | Hobbies
 - Mia san mia! Thomas Müller♡
