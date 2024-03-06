@@ -28,8 +28,6 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
-# 在東雲研究所学习PDE的YSY | Homepage
-
 - 杨森宇，中国<br/>
   Senyu Yang, China
 - 武汉大学-本科-数学<br/>
@@ -38,14 +36,10 @@ MathJax.Hub.Config({
   Interest: hyperbolic&dispersive PDEs, the geometry and physics behind them.
 - 邮箱 mail：ysydyx12345@163.com
   <p>
-	<a href="blog" target="_blank" style="margin-left: 2px">BLOG</a>
-	<a href="ideagen" target="_blank">IDEAGEN</a>
-	<a href="charmap/index.php?char=琴" target="_blank">CHARMAP</a>
-  <a href="http://yyyyyyyyyyyyyyyyy.com" target="_blank">17Y</a>
-  <a href="https://matrix67.itch.io" target="_blank">ITCH.IO</a>
-  <a href="https://www.youtube.com/channel/UCZPYZbBOoYhGi6f9kR9rC8g" target="_blank">YOUTUBE</a>
-	<a href="http://localhost-8080.com" target="_blank" class="love">❤LOCALHOST</a>
-	</p>
+	<a href="#萃梦想--seminars" target="_blank" style="margin-left: 2px">Seminars</a>
+	<a href="#拾数集--math-blog" target="_blank">Math Blog</a>
+	<a href="#半日闲--hobbies" target="_blank">CHARMAP</a>
+</p>
 
 ## 萃梦想 | Seminars
 
