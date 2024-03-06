@@ -38,7 +38,7 @@ MathJax.Hub.Config({
   <p>
 	<a href="#萃梦想--seminars" target="_blank" style="margin-left: 2px">Seminars</a>
 	<a href="#拾数集--math-blog" target="_blank">Math Blog</a>
-	<a href="#半日闲--hobbies" target="_blank">CHARMAP</a>
+	<a href="#半日闲--hobbies" target="_blank">Hobbies</a>
 </p>
 
 ## 萃梦想 | Seminars
