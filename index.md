@@ -35,11 +35,10 @@ MathJax.Hub.Config({
 - 兴趣: 双曲&色散偏微分方程，相关的几何与物理.<br/>
   Interest: hyperbolic&dispersive PDEs, the geometry and physics behind them.
 - 邮箱 mail：ysydyx12345@163.com
-  <p>
-	<a href="#萃梦想--seminars" target="_blank" style="margin-left: 2px">Seminars</a>
-	<a href="#拾数集--math-blog" target="_blank">Math Blog</a>
-	<a href="#半日闲--hobbies" target="_blank">Hobbies</a>
-</p>
+        <p>
+	<a href="seminars" target="_blank" style="margin-left: 2px">Seminars</a>
+	<a href="blog" target="_blank">Math Blog</a>
+	<a href="hobbies" target="_blank">Hobbies</a></p>
 
 ## 萃梦想 | Seminars
 
