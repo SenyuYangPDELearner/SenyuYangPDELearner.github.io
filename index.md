@@ -37,25 +37,5 @@ MathJax.Hub.Config({
 - 邮箱 mail：ysydyx12345@163.com
   
 <a href="seminars" target="_blank" style="margin-left: 2px">Seminars</a>
-<a href="blog" target="_blank">Math Blog</a>
-<a href="hobbies" target="_blank">Hobbies</a>
-
-## 萃梦想 | Seminars
-
-以下是本人主讲的讨论班的PDF/录像，欢迎交流指正.
-
-- 2022-2023 fall<br/>
-  Fourier变换中的分析 | Analysis relative to Fourier transform<br/>
-  [Notes(in Chinese)](https://maths.whu.edu.cn/__local/8/3A/29/E666F656D3A1BB0F6CC873EAA90_780F196C_17408F.pdf)<br/>
-- 2022-2023 summer<br/>
-  Fourier分析与非线性PDE：从Littlewood-Paley分解到Navier-Stokes方程组 | Fourier analysis and nonlinear PDEs: from Littlewood-Paley 
-  decomposition to Navier-Stokes equations<br/>
-   [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)        [Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)        [AdditionalText](https://www.bilibili.com/read/cv27084665/)
-- 2023-2024 spring<br/>
-   非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
-   [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Preparing...</font>
-
-## 半日闲 | Hobbies
-- Mia san mia! Thomas Müller♡
-- 魔法与科学交汇之时，故事从此开始. 某系列20周年快乐！<br/>
-  <img width="400" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/Novel1.jpg">
+    <a href="blog" target="_blank">MathBlog</a>
+    <a href="hobbies" target="_blank">Hobbies</a>
