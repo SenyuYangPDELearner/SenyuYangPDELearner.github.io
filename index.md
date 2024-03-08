@@ -37,5 +37,5 @@ MathJax.Hub.Config({
 - 邮箱 mail：ysydyx12345@163.com
   
 <a href="seminars" target="_blank" style="margin-left: 2px">Seminars</a>
-    <a href="blog" target="_blank">MathBlog</a>
-    <a href="hobbies" target="_blank">Hobbies</a>
+&emsp;&emsp;<a href="blog" target="_blank">MathBlog</a>
+&emsp;&emsp;<a href="hobbies" target="_blank">Hobbies</a>
