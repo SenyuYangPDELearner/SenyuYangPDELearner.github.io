@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://wallpapercave.com/wp/wp9723426.jpg);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
@@ -37,5 +37,5 @@ MathJax.Hub.Config({
 - 邮箱 mail：ysydyx12345@163.com
   
 <a href="seminars" target="_blank" style="margin-left: 2px">Seminars</a>
-&emsp;&emsp;<a href="blog" target="_blank">MathBlog</a>
-&emsp;&emsp;<a href="hobbies" target="_blank">Hobbies</a>
+&emsp;<a href="blog" target="_blank">MathBlog</a>
+&emsp;<a href="hobbies" target="_blank">Hobbies</a>
