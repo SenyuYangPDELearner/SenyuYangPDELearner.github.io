@@ -32,8 +32,8 @@ MathJax.Hub.Config({
 Senyu Yang, China<br/><br/>
 武汉大学-本科-数学<br/>
 WHU-Undergraduated-Mathematics<br/><br/>
-兴趣: 双曲&色散偏微分方程，相关的几何与物理<br/>
-Interest: hyperbolic&dispersive PDEs, the geometry and physics behind them<br/><br/>
+兴趣: 偏微分方程，相关的几何与物理<br/>
+Interest: partial differential equations, the geometry and physics behind them<br/><br/>
 邮箱 mail：ysydyx12345@163.com
   
 <a href="seminars" target="_blank" style="margin-left: 2px">Seminars</a>&emsp;<a href="blog" target="_blank">MathBlog</a>&emsp;<a href="hobbies" target="_blank">Hobbies</a>
