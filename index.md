@@ -30,9 +30,10 @@ MathJax.Hub.Config({
 
 杨森宇，中国 | Senyu Yang, China<br/>
 > 杨(Yang), my family name, means poplar tree; 森(Sen) means forest, and 宇(Yu) means universe. 
+
 <br/>
 Mathematics, Undergraduated, Wuhan University(WHU)<br/>
-<font size="2" >*More information in my CV*...</font> <br/><br/>
+<font size="2" >*More information in my CV*...</font> <br/>
 Interest: partial differential equations, harmonic analysis, as well as the geometry and physics behind them<br/><br/>
 Mail：ysydyx12345@163.com
   
