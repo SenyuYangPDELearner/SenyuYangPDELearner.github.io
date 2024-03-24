@@ -31,7 +31,7 @@ MathJax.Hub.Config({
 杨森宇，中国 | Senyu Yang, China<br/>
 > 杨(Yang), my family name, means poplar tree; 森宇 is my first name given by my grandpa. 森(Sen) means forest and prosperity. 宇(Yu) means universe and generosity. 
 
-Mathematics, Undergraduated, Wuhan University(WHU)&ensp;<font size="2" >More information in my CV...</font> <br/>
+Mathematics, Undergraduated, Wuhan University(WHU)&ensp;<font size="2" >More information in my CV...</font> <br/><br/>
 Interest: partial differential equations, harmonic analysis, as well as the geometry and physics behind them<br/><br/>
 Mail：ysydyx12345@163.com
   
