@@ -31,7 +31,7 @@ MathJax.Hub.Config({
 *<font size="2" color="grey">魔法名"Dedicatus545"，寄托的意义为“献身的羔羊守护强者的知识”. </font>*
 
 <p><b>杨森宇，中国</b> | Senyu Yang, China</p>
-<p><b>Status</b>: Mathematics, Undergraduated, Wuhan University(WHU)<br>
+<p><b>Current status</b>: Mathematics, Undergraduated, Wuhan University(WHU)<br>
 <font size="2" color="grey">More information in my CV...</font> </p>
 <p><b>Interest</b>: partial differential equations, harmonic analysis, as well as the geometry and physics behind them</p>
 <p><b>Mail</b>: ysydyx12345@163.com</p>
