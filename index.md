@@ -28,8 +28,9 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
+> 魔法名"Dedicatus545"，寄托的意义为“献身的羔羊守护强者的知识”.  
+
 杨森宇，中国 | Senyu Yang, China<br/>
-> 杨(Yang), my family name, means poplar tree; 森宇 is my first name given by my grandpa. 森(Sen) means forest and prosperity. 宇(Yu) means universe and generosity. 
 
 Mathematics, Undergraduated, Wuhan University(WHU)&ensp;<font size="2" >More information in my CV...</font> <br/><br/>
 Interest: partial differential equations, harmonic analysis, as well as the geometry and physics behind them<br/><br/>
