@@ -28,8 +28,9 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
-> 魔法名"Dedicatus545"，寄托的意义为“献身的羔羊守护强者的知识”.  
+<font size="2" color="grey">*魔法名"Dedicatus545"，寄托的意义为“献身的羔羊守护强者的知识”.* </font>
 
+<br/>
 杨森宇，中国 \| Senyu Yang, China<br/>
 
 Mathematics, Undergraduated, Wuhan University(WHU)&ensp;<font size="2" >More information in my CV...</font> <br/><br/>
