@@ -32,7 +32,7 @@ MathJax.Hub.Config({
 
 <br/>
 杨森宇，中国 \| Senyu Yang, China<br/><br/>
-Mathematics, Undergraduated, Wuhan University(WHU)<br/>
+Mathematics, Undergraduated, Wuhan University(WHU)<br>
 <font size="2" color="grey">More information in my CV...</font> 
 
 <br/>
