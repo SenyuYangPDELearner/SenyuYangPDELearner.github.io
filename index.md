@@ -35,4 +35,4 @@ MathJax.Hub.Config({
 <font size="2" color="grey">More information in my CV...</font> </p>
 <p><b>Interest</b>: partial differential equations, harmonic analysis, as well as the geometry and physics behind them</p>
 <p><b>Mail</b>: ysydyx12345@163.com</p>
-<a href="images/CV.pdf" target="_blank" style="margin-left: 2px">CV</a>&emsp;<a href="seminars" target="_blank">Seminars</a>&emsp;<a href="blog" target="_blank">Math Blog</a>&emsp;<a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a>
+<a href="" target="_blank" style="margin-left: 2px">CV</a>&emsp;<a href="seminars" target="_blank">Seminars</a>&emsp;<a href="blog" target="_blank">Math Blog</a>&emsp;<a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a>
