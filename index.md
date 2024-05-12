@@ -30,9 +30,13 @@ MathJax.Hub.Config({
 
 *<font size="2" color="grey">魔法名"Dedicatus545"，寄托的意义为“献身的羔羊守护强者的知识”. </font>*
 
-<p><b>杨森宇，中国</b> | Senyu Yang, China</p>
-<p><b>Current status</b>: Mathematics, Undergraduated, Wuhan University(WHU)<br>
-<font size="2" color="grey">More information in my CV...</font> </p>
-<p><b>Interest</b>: partial differential equations, harmonic analysis, as well as the geometry and physics behind them</p>
-<p><b>Mail</b>: ysydyx12345@163.com</p>
-<a href="" target="_blank" style="margin-left: 2px">CV</a>&emsp;<a href="seminars" target="_blank">Seminars</a>&emsp;<a href="blog" target="_blank">Math Blog</a>&emsp;<a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a>
+<p><b>杨森宇，中国</b>| Senyu Yang, China</p>
+<p><b>负笈游| Current status</b>: <br>
+  &emsp;Mathematics, Undergraduated, Wuhan University(WHU)<br>
+  &emsp;<font color="grey"> Mathematics, PhD student(pre-admitted), Peking University(PKU) </font> </p>
+<p><b>知无涯| Interest</b>: <br> 
+  &emsp;Partial Differential Equations, as well as the geometry and physics behind them<br>
+  &emsp;Analysis related to PDEs, such as harmonic analysis and spectral theory</p>
+<p><b>雁传书| Mail</b>: <br>
+  &emsp;ysydyx12345@163.com</p>
+<a style="margin-left: 2px">CV(unfinished)</a>&emsp;<a href="seminars" target="_blank">萃梦想| Seminars</a>&emsp;<a href="blog" target="_blank">拾数集| Math Blog</a>&emsp;<a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">B站| Bilibili</a>
