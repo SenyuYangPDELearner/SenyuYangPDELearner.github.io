@@ -32,7 +32,7 @@ MathJax.Hub.Config({
 
 <p><b>杨森宇，中国</b>|Senyu Yang, China</p>
 <p><b>负笈游</b>|Current status: <br>
-  &emsp;Mathematics, Undergraduated, Wuhan University(WHU)<br>
+  &emsp;Mathematics, Undergraduate, Wuhan University(WHU)<br>
   &emsp;<font color="grey">Mathematics, PhD student(pre-admitted), Peking University(PKU) </font> </p>
 <p><b>知无涯</b>|Interest: <br> 
   &emsp;Partial Differential Equations, as well as the geometry and physics behind them<br>
