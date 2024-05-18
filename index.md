@@ -35,8 +35,7 @@ MathJax.Hub.Config({
   &emsp;Mathematics, Undergraduate, Wuhan University(WHU)<br>
   &emsp;<font color="grey">Mathematics, PhD student(pre-admitted), Peking University(PKU) </font> </p>
 <p><b>知无涯</b>|Interest: <br> 
-  &emsp;Partial Differential Equations, as well as the geometry and physics behind them<br>
-  &emsp;Analysis related to PDEs, such as harmonic analysis and spectral theory</p>
+  &emsp;Partial Differential Equations, Harmonic Analysis and Spectral Theory, as well as the geometry and physics behind them</p>
 <p><b>雁传书</b>|Mail: <br>
   &emsp;ysydyx12345@163.com</p>
 <a style="margin-left: 2px">CV(unfinished)</a>&emsp;<a href="seminars" target="_blank">萃梦想|Seminars</a>&emsp;<a href="blog" target="_blank">拾数集|Math Blog</a>&emsp;<a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a>
