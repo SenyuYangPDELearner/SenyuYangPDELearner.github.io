@@ -32,8 +32,8 @@ MathJax.Hub.Config({
 
 <p><b>杨森宇，中国</b>|Senyu Yang, China</p>
 <p><b>负笈游</b>|Current status: <br>
-  &emsp;Mathematics, Undergraduate, Wuhan University(WHU)<br>
-  &emsp;<font color="grey">Mathematics, PhD student(pre-admitted), Peking University(PKU) </font> </p>
+  &emsp;Mathematics, Undergraduate, WHU<br>
+  &emsp;<font color="grey">Mathematics, PhD student(pre-admitted), PKU</font> </p>
 <p><b>知无涯</b>|Research Interest: <br> 
   &emsp;Nonlinear Partial Differential Equations, Harmonic Analysis, Spectral Theory and Mathematical Physics</p>
 <p><b>雁传书</b>|Mail: <br>
