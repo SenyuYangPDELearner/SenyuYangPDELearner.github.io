@@ -38,4 +38,4 @@ MathJax.Hub.Config({
   &emsp;Nonlinear Partial Differential Equations, Harmonic Analysis, Spectral Theory and Mathematical Physics</p>
 <p><b>雁传书</b>|Mail: <br>
   &emsp;ysydyx12345@163.com</p>
-<a href="https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf" style="margin-left: 2px">自述帖|CV</a>&emsp;<a href="seminars" target="_blank">萃梦想|Seminars</a>&emsp;<a href="blog" target="_blank">拾数集|Math Blog</a>&emsp;<a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a>
+<a href="https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf" style="margin-left">自述帖|CV</a>&emsp;<a href="seminars" target="_blank">萃梦想|Seminars</a>&emsp;<a href="blog" target="_blank">拾数集|Math Blog</a>&emsp;<a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a>
