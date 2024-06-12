@@ -38,11 +38,11 @@ MathJax.Hub.Config({
 
 <b>Mail:</b> ysydyx12345@163.com<br/>
 
-求闻纪 | [Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
+求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
 
-拾数集 | [MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/>
+拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/>
 
-文花帖 | [MyAlbum](https://senyuyangpdelearner.github.io/Album/)
+文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/Album/)
 
 ***
 
