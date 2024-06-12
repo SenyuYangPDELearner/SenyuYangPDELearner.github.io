@@ -42,7 +42,7 @@ MathJax.Hub.Config({
 
 拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/>
 
-文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/)
+文花帖\|MyAlbum
 
 ***
 
