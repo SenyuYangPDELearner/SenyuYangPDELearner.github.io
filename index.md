@@ -28,13 +28,13 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
-<font size="2" color="grey">*献身的羔羊守护强者的知识*. --某魔法的禁书目录</font>
+*<font size="2" color="grey">献身的羔羊守护强者的知识.</font>* <font size="2" color="grey">--某魔法的禁书目录</font><br/>
 
-<p><b>杨森宇，中国</b>|Senyu Yang, China<br>
+<b>杨森宇，中国</b>|Senyu Yang, China<br>
  &emsp;Math, Undergraduate, WHU<br>
- &emsp;<font color="grey">More Info in</font> [CV](https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf)</p>
-<p><b>Research Interest:</b> Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics</p>
-<p><b>Mail:</b> ysydyx12345@163.com</p>
+ &emsp;<font color="grey">More Info in</font> [CV](https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf)<br/><br/>
+<b>Research Interest:</b> Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics<br/><br/>
+<b>Mail:</b> ysydyx12345@163.com<br/><br/>
 求闻纪|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/><br/>
 拾数集|[MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/><br/>
 文花帖|[MyLife](https://senyuyangpdelearner. github.io/record/)
