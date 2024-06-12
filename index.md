@@ -42,3 +42,7 @@ MathJax.Hub.Config({
 <p>[萃梦想|Seminars](https://SenyuYangPDELearner.github.io/seminars/)</p>
 <p>[拾数集|MathBlog](https://SenyuYangPDELearner.github.io/blog/)</p>
 <p><a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a></p>
+
+***
+
+<font size="2" color="grey">&copy;SenyuYangPDElearner</font>
