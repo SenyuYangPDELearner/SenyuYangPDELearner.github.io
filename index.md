@@ -28,20 +28,16 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
-*<font size="2" color="grey">魔法名"Dedicatus545"，寄托的意义为“献身的羔羊守护强者的知识”. </font>*
+<font size="2" color="grey">*献身的羔羊守护强者的知识*. --某魔法的禁书目录</font>
 
-<p><b>杨森宇，中国</b>|Senyu Yang, China</p>
-<p><b>当前</b>|Current status: <br>
-  &emsp;Math, Undergraduate, WHU<br>
-  &emsp;<font color="grey">Math, PhD student(pre-admitted), PKU</font> </p>
-<p><b>知无涯</b>|Research Interest: <br> 
-  &emsp;Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics</p>
-<p><b>雁传书</b>|Mail: <br>
-  &emsp;ysydyx12345@163.com</p>
-[负笈游|CV](https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf)<br/>
-[萃梦想|Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/><br/>
-[拾数集|MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/><br/>
-<p><a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a></p>
+<p><b>杨森宇，中国</b>|Senyu Yang, China<br>
+ &emsp;Math, Undergraduate, WHU<br>
+ &emsp;<font color="grey">More Info in</font> [CV](https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf)</p>
+<p><b>Research Interest:</b> Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics</p>
+<p><b>Mail:</b> ysydyx12345@163.com</p>
+求闻纪|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/><br/>
+拾数集|[MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/><br/>
+文花帖|[MyLife](https://senyuyangpdelearner. github.io/record/)
 
 ***
 
