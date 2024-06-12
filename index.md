@@ -43,7 +43,3 @@ MathJax.Hub.Config({
 拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/>
 
 文花帖\|MyAlbum
-
-***
-
-<font size="2" color="grey">&copy;SenyuYangPDElearner</font>
