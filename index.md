@@ -38,9 +38,9 @@ MathJax.Hub.Config({
   &emsp;Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics</p>
 <p><b>雁传书</b>|Mail: <br>
   &emsp;ysydyx12345@163.com</p>
-<p>[负笈游|CV](https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf)</p>
-<p>[萃梦想|Seminars](https://SenyuYangPDELearner.github.io/seminars/)</p>
-<p>[拾数集|MathBlog](https://SenyuYangPDELearner.github.io/blog/)</p>
+[负笈游|CV](https://raw.github.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/CV20240528.pdf)<br/>
+[萃梦想|Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/><br/>
+[拾数集|MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/><br/>
 <p><a href="https://space.bilibili.com/693415657?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a></p>
 
 ***
