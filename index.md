@@ -37,7 +37,7 @@ MathJax.Hub.Config({
 <b>Mail:</b> ysydyx12345@163.com<br/><br/>
 求闻纪|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/><br/>
 拾数集|[MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/><br/>
-文花帖|[MyLife](https://senyuyangpdelearner.github.io/record/)
+文花帖|[MyAlbum](https://senyuyangpdelearner.github.io/Album/)
 
 ***
 
