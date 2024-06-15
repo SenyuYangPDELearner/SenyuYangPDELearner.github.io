@@ -40,6 +40,6 @@ MathJax.Hub.Config({
 
 求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
 
-拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog/)<br/>
+拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog.htm)<br/>
 
 文花帖\|MyAlbum
