@@ -40,7 +40,7 @@ MathJax.Hub.Config({
 &emsp;Email&ensp;ysydyx12345@163.com<br>
 &emsp;知乎&ensp;[学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br>
 
-求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
+<strong>求闻纪</strong>\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
 
 拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br/>
 
