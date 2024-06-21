@@ -33,9 +33,12 @@ MathJax.Hub.Config({
 <b>Senyu Yang</b>(杨森宇), 🇨🇳<br>
  &emsp;Math, Undergraduate, WHU<br>
  
-<b>Research Interest:</b> Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics<br/>
+<b>Research Interest</b> <br> 
+&emsp;Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics<br/>
 
-<b>Mail:</b> ysydyx12345@163.com<br/>
+<b>Contact</b> <br> 
+&emsp;E-mail: ysydyx12345@163.com<br>
+&emsp;知乎: [学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br>
 
 求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
 
