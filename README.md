@@ -44,7 +44,7 @@ MathJax.Hub.Config({
 
 拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br/>
 
-文花帖\|MyAlbum
+文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/record)
 
 <hr style="height:1px">
 
