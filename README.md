@@ -37,8 +37,8 @@ MathJax.Hub.Config({
 &emsp;Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics<br/>
 
 <b>Contact</b> <br> 
-&emsp;Email&ensp;<mailto:ysydyx12345@163.com><br>
-&emsp;知乎&ensp;[学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br>
+&emsp;Email&ensp;<font size=2><mailto:ysydyx12345@163.com></font><br>
+&emsp;知乎&ensp;<font size=2>[学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)</font><br>
 
 求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
 
@@ -46,6 +46,5 @@ MathJax.Hub.Config({
 
 文花帖\|MyAlbum
 
-<hr size=1>
-
+<hr size=0.5>
 <font size="2" color="grey">&copy;SenyuYangPDElearner</font>
