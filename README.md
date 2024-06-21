@@ -46,5 +46,5 @@ MathJax.Hub.Config({
 
 文花帖\|MyAlbum
 
-<hr style="height=1px">
+<hr style="height:1px">
 <font size="2" color="grey">&copy;SenyuYangPDElearner</font>
