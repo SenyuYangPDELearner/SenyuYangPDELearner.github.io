@@ -33,6 +33,12 @@ MathJax.Hub.Config({
 <b>Senyu Yang</b>(杨森宇), 🇨🇳<br>
 
  &emsp;Math, Undergraduate, WHU<br>
+
+<b>Contact</b> <br> 
+
+&emsp;Email: ysydyx12345@163.com<br>
+
+&emsp;知乎: [学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br> 
  
 <b>Research</b> <br> 
 
@@ -41,12 +47,6 @@ MathJax.Hub.Config({
 &emsp;萃梦想\|Publications <br>
 
 &emsp;求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
-
-<b>Contact</b> <br> 
-
-&emsp;Email: ysydyx12345@163.com<br>
-
-&emsp;知乎: [学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br>
 
 <b>Personal</b> <br>
 
