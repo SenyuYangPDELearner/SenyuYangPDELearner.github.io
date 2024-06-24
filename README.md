@@ -31,19 +31,27 @@ MathJax.Hub.Config({
 *<font size="2" color="grey">献身的羔羊守护强者的知识.</font>* <br/>
 
 <b>Senyu Yang</b>(杨森宇), 🇨🇳<br>
+
  &emsp;Math, Undergraduate, WHU<br>
  
 <b>Research</b> <br> 
+
 &emsp;Interest: Nonlinear PDEs, Harmonic Analysis, and Mathematical Physics<br>
-&emsp;萃梦想\|Publications
+
+&emsp;萃梦想\|Publications <br>
+
 &emsp;求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
 
 <b>Contact</b> <br> 
+
 &emsp;Email: ysydyx12345@163.com<br>
+
 &emsp;知乎: [学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br>
 
 <b>Personal</b> <br>
+
 &emsp;拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br>
+
 &emsp;文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/record)
 
 <hr style="height:1px">
