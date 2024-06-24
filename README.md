@@ -37,8 +37,6 @@ MathJax.Hub.Config({
 <b>Contact</b> <br> 
 
 &emsp;Email: ysydyx12345@163.com<br>
-
-&emsp;知乎: [学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br> 
  
 <b>Research</b> <br> 
 
