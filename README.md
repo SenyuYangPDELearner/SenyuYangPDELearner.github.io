@@ -33,18 +33,18 @@ MathJax.Hub.Config({
 <b>Senyu Yang</b>(杨森宇), 🇨🇳<br>
  &emsp;Math, Undergraduate, WHU<br>
  
-<b>Research Interest</b> <br> 
-&emsp;Nonlinear PDEs, Harmonic Analysis, Spectral Theory and Mathematical Physics<br/>
+<b>Research</b> <br> 
+&emsp;Interest: Nonlinear PDEs, Harmonic Analysis, and Mathematical Physics<br>
+&emsp;萃梦想\|Publications
+&emsp;求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
 
 <b>Contact</b> <br> 
-&emsp;Email&ensp;ysydyx12345@163.com<br>
-&emsp;知乎&ensp;[学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br>
+&emsp;Email: ysydyx12345@163.com<br>
+&emsp;知乎: [学不会PDE的御坂](https://www.zhihu.com/people/syy-24-75)<br>
 
-<strong>求闻纪</strong>\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
-
-拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br/>
-
-文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/record)
+<b>Personal</b> <br>
+&emsp;拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br>
+&emsp;文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/record)
 
 <hr style="height:1px">
 
