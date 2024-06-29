@@ -37,7 +37,7 @@ MathJax.Hub.Config({
 
 <b>Contact</b> <br> 
 
-&emsp;<i class="fas fa-envelope"></i> ysydyx12345@163.com<br>
+&emsp;<i class="fas fa-envelope"></i> &ensp;ysydyx12345@163.com<br>
  
 &emsp;<a class="icon" target="_blank" rel="noopener" href="https://github.com/SenyuYangPDELearner">
             <i class="fa-brands fa-github"></i>
