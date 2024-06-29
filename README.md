@@ -33,13 +33,11 @@ MathJax.Hub.Config({
 
 <b>Senyu Yang</b>(杨森宇), 🇨🇳<br>
 
- &emsp;Math, Undergraduate, WHU<br>
+ &emsp;Math, Undergraduate, WHU <br>
 
-<b>Contact</b> <br> 
-
-&emsp;<i class="fas fa-envelope"></i> &ensp;ysydyx12345@163.com<br>
+ &emsp;<i class="fas fa-envelope"></i> &ensp;ysydyx12345@163.com<br>
  
-&emsp;<a class="icon" target="_blank" rel="noopener" href="https://github.com/SenyuYangPDELearner">
+ &emsp;<a class="icon" target="_blank" rel="noopener" href="https://github.com/SenyuYangPDELearner">
             <i class="fa-brands fa-github"></i>
             </a>
 &emsp;<a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75">
