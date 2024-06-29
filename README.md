@@ -38,8 +38,8 @@ MathJax.Hub.Config({
 
 &emsp;Email: ysydyx12345@163.com<br>
  <a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75">
-            <i class="fab fa-zhihu"></i><!--
-      ---></a><!--
+            <i class="fab fa-zhihu"></i>
+            </a>
       
 <b>Research</b> <br> 
 
