@@ -51,7 +51,7 @@ MathJax.Hub.Config({
       
 <b>Research</b> <br> 
 
-&emsp;Interest: <font color="grey">Nonlinear PDEs, Harmonic Analysis, Spectral Analysis and Mathematical Physics</font> <br>
+&emsp;<font color="grey">Nonlinear PDEs, Harmonic Analysis, Spectral Analysis and Mathematical Physics</font> <br>
 
 &emsp;萃梦想\|Publications <br>
 
