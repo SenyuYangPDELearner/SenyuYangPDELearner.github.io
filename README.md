@@ -37,8 +37,12 @@ MathJax.Hub.Config({
 
 <b>Contact</b> <br> 
 
-&emsp;Email: ysydyx12345@163.com<br>
- <a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75">
+&emsp;<i class="fas fa-envelope"></i> ysydyx12345@163.com<br>
+ 
+&emsp;<a class="icon" target="_blank" rel="noopener" href="https://github.com/SenyuYangPDELearner">
+            <i class="fa-brands fa-github"></i>
+            </a>
+&emsp;<a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75">
             <i class="fa-brands fa-zhihu"></i>
             </a>
       
