@@ -45,6 +45,9 @@ MathJax.Hub.Config({
 &emsp;<a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75">
             <i class="fa-brands fa-zhihu"></i>
             </a>
+&emsp;<a class="icon" target="_blank" rel="noopener" href="https://b23.tv/h7Zwbmg">
+            <i class="fa-brands fa-bilibili"></i>
+            </a>
       
 <b>Research</b> <br> 
 
