@@ -47,7 +47,7 @@ MathJax.Hub.Config({
             <i class="fa-brands fa-bilibili"></i>
             </a>
       
-<b>Research</b> <br> 
+<b>Academy</b> <br> 
 
 &emsp;Interest&ensp;<font color="grey">Nonlinear PDEs, Harmonic Analysis, Spectral Analysis and Mathematical Physics</font> <br>
 
