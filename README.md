@@ -49,7 +49,7 @@ MathJax.Hub.Config({
       
 <b>Academy</b> <br> 
 
-My research interests include nonlinear PDEs, harmonic analysis and mathematical physics, especially fluid systems, dispersive PDEs and nonlinear waves. Any discussion about math is welcome. Please do not hesitate to send me an email or approach me directly. <br>
+My research interests include nonlinear PDEs, harmonic analysis and spectral theory, especially those related to fluid mechanics, dispersive PDEs and nonlinear waves. Any discussion about mathematics(and relevant physics, if you like) is welcome. Please do not hesitate to send me an email, chat with me on 知乎, or approach me directly. <br>
 
 &emsp;萃梦想\|Publications <br>
 
