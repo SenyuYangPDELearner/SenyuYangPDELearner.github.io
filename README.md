@@ -31,7 +31,7 @@ MathJax.Hub.Config({
 
 *<font size="2" color="grey">献身的羔羊守护强者的知识.</font>* <br/>
 
-<b>Senyu Yang</b>(杨森宇), <img src="[https://www.emojiall.com/en/header-svg/🇨🇳.svg](https://www.emojiall.com/images/60/emojidex/1f1e8-1f1f3.png)"> <br>
+<b>Senyu Yang</b>(杨森宇), <img src="https://www.emojiall.com/en/header-svg/🇨🇳.svg](https://www.emojiall.com/images/60/emojidex/1f1e8-1f1f3.png)"> <br>
 
  &emsp;Math, Undergraduate, WHU <br>
 
