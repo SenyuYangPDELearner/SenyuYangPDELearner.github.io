@@ -33,7 +33,7 @@ MathJax.Hub.Config({
 
  &emsp;Math, Undergraduate, WHU <br>
 
- &emsp;<i class="fas fa-envelope"></i> &ensp;ysydyx12345@163.com">ysydyx12345@163.com<br/>
+ &emsp;<i class="fas fa-envelope"></i> &ensp; ysydyx12345@163.com<br/>
       
 <b>Academy</b> <br> 
 
