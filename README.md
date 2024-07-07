@@ -31,25 +31,15 @@ MathJax.Hub.Config({
 
 *<font size="2" color="grey">献身的羔羊守护强者的知识.</font>* <br/>
 
-<b>Senyu Yang</b>(杨森宇), 🇨🇳<br>
+<b>Senyu Yang</b>(杨森宇), :CN: <br>
 
  &emsp;Math, Undergraduate, WHU <br>
 
- &emsp;<i class="fas fa-envelope"></i> &ensp;<a target="_blank" rel="noopener" href="mailto:ysydyx12345@163.com">ysydyx12345@163.com</a><br>
- 
- &emsp;<a class="icon" target="_blank" rel="noopener" href="https://github.com/SenyuYangPDELearner">
-            <i class="fa-brands fa-github"></i>
-            </a>
-&emsp;<a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75">
-            <i class="fa-brands fa-zhihu"></i>
-            </a>
-&emsp;<a class="icon" target="_blank" rel="noopener" href="https://b23.tv/h7Zwbmg">
-            <i class="fa-brands fa-bilibili"></i>
-            </a>
+ &emsp;<i class="fas fa-envelope"></i> &ensp;<a target="_blank" rel="noopener" href="mailto:ysydyx12345@163.com">ysydyx12345@163.com</a><br/>
       
 <b>Academy</b> <br> 
 
-My research interests include nonlinear PDEs, harmonic analysis and spectral theory, especially those related to fluid mechanics, dispersive PDEs and nonlinear waves. Any discussion about mathematics and relevant physics is welcome. Please do not hesitate to send me an email, chat with me on <i class="fa-brands fa-zhihu"></i>, or approach me directly. <br>
+My research interests include nonlinear PDEs, harmonic analysis and spectral theory, especially those related to fluid mechanics, dispersive PDEs and nonlinear waves. Any discussion about mathematics and relevant physics is welcome. Please do not hesitate to send me an email, chat with me on <a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75"><i class="fa-brands fa-zhihu"></i></a>, or approach me directly. <br>
 
 &emsp;萃梦想\|Publications <br>
 
