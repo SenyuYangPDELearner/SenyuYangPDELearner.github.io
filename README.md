@@ -26,10 +26,13 @@ MathJax.Hub.Config({
         }
 });
 </script>
+<title>不爱喝咖啡的数学见习生</title>
 </head>
 <div class="bjimg"></div>
-
-*<font size="2" color="grey">献身的羔羊守护强者的知识.</font>* <br/>
+<div class="px-4 pt-3 pb-0 topbar border-bottom">
+  <h1> Yibo Gao </h1><br/>
+  *<font size="2" color="grey">献身的羔羊守护强者的知识.</font>* <br/>
+</div>
 
 <b>Senyu Yang</b>(杨森宇), China <br>
 
