@@ -35,7 +35,7 @@ MathJax.Hub.Config({
 
  &emsp;Math, Undergraduate, WHU <br>
 
- &emsp;<i class="fas fa-envelope"></i> &ensp;ysydyx12345@163.com<br>
+ &emsp;<i class="fas fa-envelope"></i> &ensp;<a target="_blank" rel="noopener" href="mailto:ysydyx12345@163.com">ysydyx12345@163.com</a><br>
  
  &emsp;<a class="icon" target="_blank" rel="noopener" href="https://github.com/SenyuYangPDELearner">
             <i class="fa-brands fa-github"></i>
@@ -49,7 +49,7 @@ MathJax.Hub.Config({
       
 <b>Academy</b> <br> 
 
-I am interest in nonlinear PDEs, harmonic analysis, spectral analysis and mathematical physics. <br>
+My research interests include nonlinear PDEs, harmonic analysis and mathematical physics, especially fluid systems, dispersive PDEs and nonlinear waves. Any discussion about math is welcome. Please do not hesitate to send me an email or approach me directly. <br>
 
 &emsp;萃梦想\|Publications <br>
 
