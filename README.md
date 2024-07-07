@@ -49,7 +49,7 @@ MathJax.Hub.Config({
       
 <b>Academy</b> <br> 
 
-&emsp;Interest&ensp;<font color="grey">Nonlinear PDEs, Harmonic Analysis, Spectral Analysis and Mathematical Physics</font> <br>
+I am interest in nonlinear PDEs, harmonic analysis, spectral analysis and mathematical physics. <br>
 
 &emsp;萃梦想\|Publications <br>
 
