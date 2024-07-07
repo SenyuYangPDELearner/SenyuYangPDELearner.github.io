@@ -33,7 +33,7 @@ MathJax.Hub.Config({
 
  &emsp;Math, Undergraduate, WHU <br>
 
- &emsp;<i class="fas fa-envelope"></i> &ensp; ysydyx12345@163.com<br/>
+ &emsp;<i class="fas fa-envelope"></i>&ensp;ysydyx12345@163.com<br/>
       
 <b>Academy</b> <br> 
 
@@ -51,4 +51,4 @@ My research interests include nonlinear PDEs, harmonic analysis and spectral the
 
 <hr style="height:1px">
 
-&copy; Senyu Yang &emsp;*<font size="2" color="grey">献身的羔羊守护强者的知识 .</font>*
+&copy; Senyu Yang &emsp;<font size="2" color="grey">献身的羔羊守护强者的知识 .</font>
