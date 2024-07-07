@@ -51,4 +51,4 @@ My research interests include nonlinear PDEs, harmonic analysis and spectral the
 
 <hr style="height:1px">
 
-&copy; Senyu Yang &emsp;*<font size="2" color="grey">献身的羔羊守护强者的知识.</font>*
+&copy; Senyu Yang &emsp;*<font size="2" color="grey">献身的羔羊守护强者的知识 .</font>*
