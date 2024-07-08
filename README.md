@@ -45,7 +45,7 @@ My research interests include nonlinear PDEs, harmonic analysis and spectral the
 
 <b>Personal</b> <br>
 
-&emsp;拾数集\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br>
+&emsp;燕石志\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br>
 
 &emsp;文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/record)
 
