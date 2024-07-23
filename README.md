@@ -34,10 +34,12 @@ MathJax.Hub.Config({
  &emsp;Math, Undergraduate, WHU <br>
 
  &emsp;<i class="fas fa-envelope"></i>&ensp;ysydyx12345@163.com<br/>
+ 
+ &emsp;<a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75"><i class="fa-brands fa-zhihu"></i></a>&ensp;学不会PDE的御坂<br/>
       
 <b>Academy</b> <br> 
 
-My research interests include nonlinear PDEs, harmonic analysis and spectral theory, especially those related to fluid mechanics, dispersive equations and nonlinear waves. Any discussion about mathematics or relevant physics is welcome. Please do not hesitate to send me an email, chat with me on <a class="icon" target="_blank" rel="noopener" href="https://www.zhihu.com/people/syy-24-75"><i class="fa-brands fa-zhihu"></i></a>, or approach me directly. <br>
+My research interests include nonlinear PDEs, harmonic analysis and spectral theory, especially those related to fluid mechanics, dispersive equations and nonlinear waves. Any discussion about mathematics or relevant physics is welcome. Please do not hesitate to send me an email or approach me directly. <br>
 
 &emsp;萃梦想\|Publications <br>
 
