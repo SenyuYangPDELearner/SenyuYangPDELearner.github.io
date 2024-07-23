@@ -41,15 +41,15 @@ MathJax.Hub.Config({
 
 My research interests include nonlinear PDEs, harmonic analysis and spectral theory, especially those related to fluid mechanics, dispersive equations and nonlinear waves. Any discussion about mathematics or relevant physics is welcome. Please do not hesitate to send me an email or approach me directly. <br>
 
-&emsp;萃梦想\|Publications <br>
+&emsp;萃梦想 \| Publications <br>
 
-&emsp;求闻纪\|[Seminars](https://SenyuYangPDELearner.github.io/seminars/)<br/>
+&emsp;[求闻纪](https://SenyuYangPDELearner.github.io/seminars/) \| Seminars<br/>
 
 <b>Personal</b> <br>
 
-&emsp;燕石志\|[MathBlog](https://SenyuYangPDELearner.github.io/blog)<br>
+&emsp;[燕石志](https://SenyuYangPDELearner.github.io/blog) \| Math Blog<br>
 
-&emsp;文花帖\|[MyAlbum](https://senyuyangpdelearner.github.io/record)
+&emsp;[文花帖](https://senyuyangpdelearner.github.io/record) \| My Album
 
 <hr style="height:1px">
 
