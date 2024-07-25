@@ -29,9 +29,9 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
-<b>Senyu Yang</b>(杨森宇), China <br>
+<b>About Me</b> <br/>
 
- &emsp;Math, Undergraduate, WHU <br>
+Hello, my name is <b>Senyu Yang</b>(<b>杨森宇</b>in Chinese). I am an undergraduate at School of Mathematics and Statistics, Wuhan University(WHU), China.<br/>
 
  &emsp;<i class="fas fa-envelope"></i>&ensp;ysydyx12345@163.com<br/>
  
