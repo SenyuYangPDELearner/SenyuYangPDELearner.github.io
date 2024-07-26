@@ -1,3 +1,4 @@
+<head>  
 <style>
 div.bg
   {
@@ -6,11 +7,10 @@ div.bg
   background-position: center top; 
   background-size: cover;
   max-width: 100%;
-  height:100px;
+  height: auto;
   opacity: 0.3;
 }
 </style>
-<head>  
   <link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
   <script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
