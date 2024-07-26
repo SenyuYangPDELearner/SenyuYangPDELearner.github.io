@@ -1,5 +1,5 @@
 <style>
-body
+div.bg
   {
   background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/aleista.jpg); 
   background-repeat: no-repeat;
@@ -23,8 +23,8 @@ MathJax.Hub.Config({
 });
 </script>
 </head>
+<div class="bg"></div>
 
-<body></body>
 Hello! I am <b>Senyu Yang</b> (<b>杨森宇</b> in Chinese) in the third year of undergraduate at School of Mathematics and Statistics <a class="icon" target="_blank" rel="noopener" href="https://maths.whu.edu.cn/Englishversion/index.htm"><i class="fa-solid fa-arrow-up-right-from-square fa-xs"></i></a>, Wuhan University(WHU), China.<br/>
 
  &emsp;<i class="fas fa-envelope"></i>&ensp;ysydyx12345@163.com<br/>
