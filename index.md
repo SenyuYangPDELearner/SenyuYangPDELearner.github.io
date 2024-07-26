@@ -6,7 +6,7 @@ div.bg
   background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/aleista.png); 
   background-repeat: no-repeat;
   background-position: center top;
-  background-size: cover;
+  background-size: contain;
   max-width: 100%;
   height: 100px;
   opacity: 0.3;
