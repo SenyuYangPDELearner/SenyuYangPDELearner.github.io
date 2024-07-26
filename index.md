@@ -2,6 +2,7 @@
 <style>
 div.bg
   {
+  top: 0;
   background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/aleista.png); 
   background-repeat: no-repeat;
   background-position: center top;
