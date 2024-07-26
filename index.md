@@ -2,7 +2,7 @@
 <style>
 div.bg
   {
-  background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/aleista.jpg); 
+  background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/aleista.png); 
   background-repeat: no-repeat;
   background-position: center top; 
   max-width: 100%;
