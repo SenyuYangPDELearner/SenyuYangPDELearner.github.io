@@ -24,7 +24,7 @@ MathJax.Hub.Config({
 </script>
 </head>
 
-<body>
+<body></body>
 Hello! I am <b>Senyu Yang</b> (<b>杨森宇</b> in Chinese) in the third year of undergraduate at School of Mathematics and Statistics <a class="icon" target="_blank" rel="noopener" href="https://maths.whu.edu.cn/Englishversion/index.htm"><i class="fa-solid fa-arrow-up-right-from-square fa-xs"></i></a>, Wuhan University(WHU), China.<br/>
 
  &emsp;<i class="fas fa-envelope"></i>&ensp;ysydyx12345@163.com<br/>
@@ -48,5 +48,3 @@ My research interests include nonlinear PDEs, harmonic analysis and spectral the
 <hr style="height:1px">
 
 &copy; Senyu Yang &emsp;<font size="2" color="grey">献身的羔羊守护强者的知识 .</font>
-
-</body>
