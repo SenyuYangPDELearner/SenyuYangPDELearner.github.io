@@ -1,10 +1,12 @@
 <style>
 body
   {
-  background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/cover.jpg); 
+  background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/aleista.jpg); 
+  background-repeat: no-repeat;
   background-position: center top; 
+  background-size: cover;
   max-width: 100%;
-  height: auto;
+  height:100px;
   opacity: 0.3;
 }
 </style>
