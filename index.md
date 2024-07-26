@@ -14,6 +14,13 @@ zoom: 1;
   background-position: center 0;
   opacity: 0.3;
   }
+  .header {
+  background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/cover.jpg); 
+  background-size: cover; 
+  height:480px; 
+  padding-top:80px;
+  opacity: 0.3;
+}
 </style>
 <head>  
   <link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
@@ -29,12 +36,7 @@ MathJax.Hub.Config({
 </script>
 </head>
 <div class="bjimg"></div>
-<body>
-<!--background-->
-  <div style="background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/cover.jpg); 
-  background-size: cover; height:480px; padding-top:80px;">
-  </div>
-</body>
+<div class="header"></div>
 
 Hello! I am <b>Senyu Yang</b> (<b>杨森宇</b> in Chinese) in the third year of undergraduate at School of Mathematics and Statistics <a class="icon" target="_blank" rel="noopener" href="https://maths.whu.edu.cn/Englishversion/index.htm"><i class="fa-solid fa-arrow-up-right-from-square fa-xs"></i></a>, Wuhan University(WHU), China.<br/>
 
