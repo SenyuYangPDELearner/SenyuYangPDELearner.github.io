@@ -42,12 +42,10 @@ MathJax.Hub.Config({
      background-color: rgb(32,33,36);
      overflow: hidden;
    }
-   .navitem{
-     float: left;
-   }
-   .navlink{
+   .navbar a{
      color: white;
      display: block;
+     float: left;
      text-decoration: none;
      padding: 10%;
      /*font-size: 100%*/
@@ -63,12 +61,12 @@ MathJax.Hub.Config({
 <!--设置背景图片和封面 -->
 <body background="" style="background-position:center top; background-repeat:no-repeat;">
 <!--顶部导航栏 -->
-<ul class="navbar">
-      <li class="navitem"><a class="navlink" style="font-weight:bold; font-size:large">Senyu Yang</a></li>
-      <li class="navitem"><a class="navlink" style="color: white" href="#About-Me">About Me</a></li>
-      <li class="navitem"><a class="navlink" style="color: white" href="#Academia">Academia</a></li>
-      <li class="navitem"><a class="navlink" style="color: white" href="#Hobby">Hobby</a></li>
-</ul>
+<nav class="navbar">
+      <a style="font-weight:bold; font-size:large">Senyu Yang</a>
+      <a style="color: white" href="#About-Me">About Me</a>
+      <a style="color: white" href="#Academia">Academia</a>
+      <a style="color: white" href="#Hobby">Hobby</a>
+<nav>
 <img style="width:100%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/img/aleistercrowley-BV12X4y1K7bh.png" alt="封面" title="Aleister Crowley，来自魔禁手书【始终如一的魔法师】BV12X4y1K7bh">
 <!--正文区块 -->  
 <div id="container" style="width:75%; margin: 0 auto; flex: 1">
