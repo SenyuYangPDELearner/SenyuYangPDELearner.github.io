@@ -1,4 +1,6 @@
-   a:link, a:visited{color:#0000EE};
+   a:link, a:visited{
+   color:#0000EE;
+   }
    .global {
      margin: 0;
      min-height: 100%;
