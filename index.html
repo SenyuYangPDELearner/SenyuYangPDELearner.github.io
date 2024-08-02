@@ -21,6 +21,22 @@ MathJax.Hub.Config({
 </script>
 <!--引入CSS文件  -->
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<!--引用导航栏和页脚html  -->
+<script>
+        fetch('template/head.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
 <!-- 暗锚点，防止被导航栏遮挡 -->
 <style>
   body {
@@ -40,12 +56,7 @@ MathJax.Hub.Config({
  
 <body>
 <!--顶部导航栏 -->
-<nav class="navbar">
-    <a style="font-weight:bold; font-size:large;">Senyu Yang</a>
-    <a style="color: white" href="#About-Me">About Me</a>
-    <a style="color: white" href="#Academia">Academia</a>
-    <a style="color: white" href="#Hobby">Hobby</a>
-</nav>
+<div id="headnav"></div>
 <!--封面  -->
 <img style="width:100%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/img/aleistercrowley-BV12X4y1K7bh.png" alt="封面" title="Aleister Crowley，来自魔禁手书【始终如一的魔法师】BV12X4y1K7bh">
 <!--正文区块 -->  
@@ -105,12 +116,6 @@ MathJax.Hub.Config({
 
 </div>
 <!--网页底部  -->
-<div id="footer" style="bottom: 0; padding: 0px; width: 75%; margin: 0 auto; font-size:small; color: rgb(128,128,128)">
-<hr style="height:1px">
-  
-<p>
-&copy; Senyu Yang &emsp;献身的羔羊守护强者的知识
-</p>
-</div>
+<div id="footbar"></div>
 </body>
 </html>
