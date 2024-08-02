@@ -1,13 +1,4 @@
-body {
-     width: 100%;
-     margin: 0;
-     padding: 0;
-     min-height: 100%;
-     display: flex;
-     flex-direction: column;
-     font-family: Verdana, sans-serif;
-   }
-   .navbar {
+.navbar {
      position:sticky;
      top: 0px;
      padding: 0px;
