@@ -8,7 +8,14 @@
      background-color: rgb(32,33,36);
      overflow: hidden;
    }
-   .navbar a{
+.navbar b{
+  color: white;
+  display: block;
+  float: left; 
+  text-decoration: none;
+  padding: 1.5%;     
+}
+.navbar a{
      color: white;
      display: block;
      float: left;
