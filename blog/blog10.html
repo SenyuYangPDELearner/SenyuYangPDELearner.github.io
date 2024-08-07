@@ -1,0 +1,155 @@
+<html>
+<head>  
+<meta charset="utf-8">
+<!--窗口自适应-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--网页标题和图标  -->
+<title>线代作业题：1维Ising模型的配分函数</title>
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
+<!--导入图标库  -->
+  <script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
+<!--LaTeX脚本-->
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        displayMath: [['$$','$$']]
+        }
+});
+</script>
+<!--导入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
+<!--引用导航栏和页脚html  -->
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/bloghead.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
+<style>
+   body {
+     margin: 0;
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+     font-family: Verdana, sans-serif;
+   }
+</style>
+</head>
+
+<!--设置背景图片 -->
+<body background="" style="background-position:center top; background-repeat:no-repeat;">
+<!--顶部导航栏 -->
+<div id="headnav" style="position: sticky; top: 0px;"></div>
+<!--正文区块-->
+<img style="width:100%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/youko.jpg" alt="封面 相生佑子" title="佑子，真是个笨蛋啊...封面来自漫画《日常》第二卷目录">
+<div id="container" style="width:75%; margin: 0 auto;">
+<!--文章标题 -->
+<h1 style="margin-bottom:0">线代作业题：1维Ising模型的配分函数</h1>
+<hr style="height:1px">
+<!--发布日期 -->
+<p>
+<font size="2">2024.8.1</font>
+</p>
+
+<p>
+  近段时间在随缘学习统计物理，发现求解$1$维Ising模型的配分函数(partition function)就可以作为一道不错的线代一/高代一习题，简单记录一下<span style="text-decoration: line-through">于是又可以水掉一篇博客了</span>. 
+</p>
+
+<cite>
+  <b>问题.</b> 设有限集$\Omega:=\{1, 2, ..., N\}$, 所有函数$\omega: \Omega\to \{1, -1\}$构成的集合记为$\mathcal{S}$. 记$\omega_i:= \omega(i), i \in \Omega$. 定义$\mathcal{S}$上的函数
+  $$
+  H(\omega)=H_N(\omega):=-J \sum_{i=1}^N \omega_i \omega_{i+1} - h \sum_{i=1}^N \omega_i,
+  $$
+  其中$n+1$视为$1$, $J>0, h\in \mathbb{R}$为给定常数. 请用$N, J, h$表示以下函数
+  $$
+  Z(\beta)=Z_{N,J,h}(\beta):= \sum_{\omega\in\mathcal{S}} e^{-\beta H(\omega)},\ \beta \gt 0.
+  $$
+</cite>
+  
+<p>
+读者可以先尝试自己求解. 此去一千里↓↓↓
+</p>
+</div>
+
+<div id="container" style="width:75%; margin: 0 auto; flex: 1">
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+</div>
+
+<div id="container" style="width:75%; margin: 0 auto; ">
+<p>
+  <em>解</em>. 利用周期性，把$Z$展开写作
+$$
+  Z(\beta)=\sum_{\omega\in\mathcal{S}} T_{\omega_1 \ \omega_2}T_{\omega_2 \ \omega_3}...T_{\omega_{N-1} \ \omega_N}T_{\omega_N \ \omega_1},\tag{*}
+$$
+其中
+$$
+  T_{\omega_i\ \omega_{i+1}}:= \exp{} \left[ \beta\left( \frac{1}{2}h\omega_i+J\omega_i\omega_{i+1}+\frac{1}{2}h\omega_{i+1}\right) \right], \ i\in\Omega.
+$$
+那么每个$T_{\omega_i\ \omega_{i+1}}$都有$4$种状态$T_{++}, T_{+-}, T_{-+}, T{--}$, 我们用一个二阶实对称矩阵
+$$
+  T:=
+  \begin{pmatrix}
+    T_{++} & T_{+-}\\
+    T_{-+} & T_{+-}
+  \end{pmatrix}
+  =
+   \begin{pmatrix}
+    e^{\beta(J+h)} & e^{-\beta Jh}\\
+    e^{-\beta Jh} & e^{\beta(J-h)}
+   \end{pmatrix}
+$$
+来记住这些状态，$T$称为<b>转移矩阵</b>(transfer matrix, 这个名字来自于概率论的Markov链). 注意这里我们使用$+,-$而不是数字来标记矩阵的行和列. 
+</p>
+<p>
+一个关键的观察在于如果在$(*)$中固定$\omega$的$N-1$个分量——不妨设$\omega_2$为唯一变量，则
+$$
+  \sum_{\omega_2\in \{1,-1\}} T_{\omega_1\ \omega_2}T_{\omega_2\ \omega_3}
+$$
+就是转移矩阵的<b>乘积</b>$(T\circ T)_{\omega_1\ \omega_3}=(T^2)_{\omega_1\ \omega_3}$！以此类推，
+$$
+  Z(\beta)=\sum_{\omega_1}\sum_{\omega_3}...\sum_{\omega_N} (T^2)_{\omega_1\ \omega_3}T_{\omega_3\ \omega_4}...T_{\omega_N\ \omega_1}
+$$
+$$
+  =...=\sum_{\omega_{1}=1,-1} (T^N)_{\omega_1\ \omega_1}
+$$
+$$
+  =\mathrm{trace}\ T^N,
+$$
+现在就差临门一脚. $T$实对称，自然可以对角化，求得特征值
+$$
+  \lambda_{\pm}=e^{\beta J}\mathrm{cosh} (\beta h)\pm \left( e^{2\beta J} \mathrm{sinh}^2(\beta h)+e^{-2\beta J}\right)^{1/2}.
+$$
+可对角矩阵的迹等于特征值之和，因此
+$$
+  Z(\beta)=\lambda_{+}^N+ \lambda_{-}^N=\lambda_{+}^{N}\left[ 1 + \left(\frac{\lambda_{+}}{\lambda_{-}}\right)^N \right].
+$$
+</p>
+
+<p>
+  <em>注</em>. 将$\Omega$视为均匀分布在1维圆周$S^1$上的$N$个原子组成的系统，$\{1,-1\}$代表原子磁矩的取向（自旋向上或向下）. $J$是相邻原子磁矩的耦合系数，$J>0$代表顺磁性，$J\lt 0$代表逆磁性. $h$是外部磁场的作用. 此时$\omega\in\mathcal{S}$就刻画了这个系统的一种状态，$H(\omega)$即为该状态的哈密顿量(能量). $\beta$是一个与温度的倒数$T_{\beta}^{-1}$相关的量，配分函数$Z(\beta)$的意义在于
+  $$
+  \mathbb{P}[\omega]:=\frac{e^{-\beta H(\omega)} }{Z(\beta)}
+  $$
+  就是温度$T_{\beta}$时系统的(平衡)态处于$\omega$的概率. 这就是统计物理中的$1$维Ising模型, 这里$e^{-\beta H}$形式的出现源于平衡态的Boltzmann分布. 
+</p>
+</div>
+
+<!-- foot copy -->
+<div id="footbar"></div>
+
+</body>
+</html>
