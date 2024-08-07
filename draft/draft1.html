@@ -1,0 +1,142 @@
+<html>
+<head>  
+<meta charset="utf-8">
+<!--窗口自适应-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--网页标题和图标  -->
+<title>凸集的投影与等宽曲线：从一道丘赛面试题谈起</title>
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
+<!--导入图标库  -->
+<script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
+<!--LaTeX脚本-->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        displayMath: [['$$','$$']]
+        }
+});
+</script>
+<!--导入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
+<!--引用导航栏和页脚html  -->
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/bloghead.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
+<style>
+   body {
+     margin: 0;
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+     font-family: Verdana, sans-serif;
+   }
+</style>
+</head>
+
+<!--设置背景图片 -->
+<body background="" style="background-position:center top; background-repeat:no-repeat;">
+<!--顶部导航栏 -->
+<div id="headnav" style="position: sticky; top: 0px;"></div>
+
+<!--封面图-->
+<img style="width:95%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/" alt="封面" title="">
+
+<div id="container" style="width:75%; margin: 0 auto; flex:1">
+
+<!--文章标题 -->
+<h1 style="margin-bottom:0">凸集的投影与等宽曲线：从一道丘赛面试题谈起</h1>
+
+<hr style="height:1px">
+
+<!--发布日期 -->
+<p>
+<font size="2">2024.8.xx</font>
+</p>
+
+<!--正文区块-->
+有朋友问了2021年丘赛分析组面试第3题，想了好一会觉得蛮有趣，所以记一下<span style="text-decoration: line-through">ysy你怎么又在灌水</span>.
+
+<h2></h2>
+
+<cite>
+  <b>问题.</b> 设单位圆周$S^1 \subset \mathbb{R}^2$. 对任意$v \in S^1$, 定义映射$\pi_v: \mathbb{R}^2 \to \mathbb{R}$, $\pi_v(x)=\left\langle v, x\right\rangle$. 设$A, B \subset \mathbb{R}^2$是凸(convex)的有界开集，$m$是$\mathbb{R}$上的Lebesgue测度.
+  <ol>
+    <li>如果对任意$v \in S^1$有$m(\pi_v(A)) = m(\pi_v(B))$, 能否得到$A = B$？在等距同构意义下呢？</li>
+    <li>如果对任意$v \in S^1$有$\pi_v(A) = \pi_v(B)$, 能否得到$A = B$？</li>
+  </ol>
+</cite>
+<p>
+读者可以先尝试自己求解. 此去一千里↓↓↓
+</p>
+</div>
+
+<div id="container" style="width:75%; margin: 0 auto; flex: 1">
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
+</div>
+
+<div id="container" style="width:75%; margin: 0 auto; ">
+
+<p>
+  <em>解</em>. 先证明$(ii)$成立，用反证法. 假设存在$x \in B \setminus A$. $\{x\}, A$都是凸集，$\mathrm{Int} (A) \neq \emptyset$. 由Hahn-Banach分离定理存在一个连续线性函数(超平面)$\mathit{l}: \mathbb{R}^2\to \mathbb{R}$ s.t. $l(A) \lt l(x)$. 再由Riesz表示定理，存在$v\in \mathbb{R}^2$ s.t. $\mathit{l} \equiv \pi_v$. 做scaling即可令$v \in S^1$, 此时$\pi_v(B)\neq \pi_v(A)$, 矛盾！对$x \in A \setminus B$同理. 所以$A = B$，换言之凸集的形状和位置可由其所有方向的投影完全决定. &emsp;$\Box$
+</p>
+<p>
+  回到$(i)$. 第一个论断显然不成立. 对于第二个论断，考虑最简单最对陈年的凸集：单位圆盘$\mathbb{D}$, 对任意$v \in S^1$有$\pi_v(\mathbb{D}) = (-1,1)$, $m \equiv 2$. 这个性质被称为<b>等宽</b>(shape of constant width). 那么还有与圆不同的等宽图形么？一个经典例子就是勒洛三角形(Reuleaux triangle), 构造如下：
+</p>
+<p>
+  <img style="width:50%; float:center; margin: 0 auto" src="https://p1.ssl.qhimg.com/t014150e48e086a37bd.jpg">
+</p>
+        
+<cite>
+  &emsp;给定一个等边三角形. 以每个顶点为圆心，边长为半径作以对边为弦的圆弧. 这三段圆弧围成的闭曲线的内部即为勒洛三角形.
+</cite>
+        
+<p>  
+  从作图过程可以直接得出等宽性，做适当的scaling就能使其投影的长度恒为$2$. 所以第二个论断也是错误的. &emsp;$\Box$
+</p>
+
+<p>再附上两个初等的思考题</p>
+<p>
+ <b>Q1:</b> 说明勒洛三角形和圆不满足(ii)的条件.
+</p>
+<p>
+  <b>Q2:</b> 尝试从勒洛三角形出发构造一个不同于圆的无尖点的凸等宽曲线.
+</p>
+  
+
+<hr style="height:1px">
+
+<p>
+  关于等宽图形的边界——等宽曲线(curve of constant width)还有许多有趣的性质. 就讲讲我最喜欢的Barbier定理吧.
+</p>  
+  
+<cite>
+  <b>定理.</b>(Barbier) 宽度为$w>0$的任意可求长等宽曲线的周长都是$\pi w$.
+</cite>
+
+<p>
+  下面给出一个严谨的几何证明和一个不严谨的概率“证明”. 
+</p>
+  
+</div>
+
+<!-- foot copy -->
+<div id="footbar"></div>
+
+</body>
+</html>
