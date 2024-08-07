@@ -1,0 +1,120 @@
+<html>
+<head>  
+<meta charset="utf-8">
+<!--窗口自适应-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--网页标题和图标  -->
+<title>Van der Corput不等式</title>
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
+<!--导入图标库  -->
+<script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
+<!--LaTeX脚本-->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        displayMath: [['$$','$$']]
+        }
+});
+</script>
+<!--导入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
+<!--引用导航栏和页脚html  -->
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/bloghead.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
+<style>
+   body {
+     margin: 0;
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+     font-family: Verdana, sans-serif;
+   }
+</style>
+</head>
+
+<!--设置背景图片 -->
+<body background="" style="background-position:center top; background-repeat:no-repeat;">
+<!--顶部导航栏 -->
+<div id="headnav" style="position: sticky; top: 0px;"></div>
+<!--正文区块-->
+<img style="width:100%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/Yashima-Battle.jpg" alt="封面 屋岛作战" title="屋岛作战">
+<div id="container" style="width:75%; margin: 0 auto;">
+<!--文章标题 -->
+<h1 style="margin-bottom:0">Van der Corput不等式</h1>
+<hr style="height:1px">
+<!--发布日期 -->
+<p>
+<font size="2">2024.7.18</font>
+</p>
+
+<p>
+偷懒一次，囫囵记个不等式，单纯觉得证明有点意思. 不等式及其证明是一位概率方向的朋友告诉我的 :-)
+</p>
+
+<cite>
+<b>定理.</b>(Van der Corput) 给定Hilbert空间 $H$ 中 $m$ 个单位向量 $e_i \ (1 \leq i \leq m)$ . 那么对任意单位向量 $v \in H$ ,
+$$
+\left(\sum_i \vert \left\langle v, e_i \right\rangle \vert \right)^2 \leq \sum_{i,j} \vert \left\langle e_i, e_j \right\rangle \vert.
+$$
+</cite>
+
+<p>
+直观地讲，不等式的含义是如果 $v$ 与许多 $e_i$ 关联性很强(即左式很大，用内积表达关联性也是数据科学的基操了)，那么一定有很多对 $(e_i, e_j)$ 强关联（听起来就有股概率味）. 读者可以先自己尝试证明. 此去一千里↓↓↓
+</p>
+</div>
+
+<div id="container" style="width:75%; margin: 0 auto; flex: 1">
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+</div>
+
+<div id="container" style="width:75%; margin: 0 auto;">
+<p>
+<em>证明</em>. 存在 $a_i \in \{ ±1 \}$ (如果在 $\mathbb{C}$ 上则取 $a_i \in S^1$) s.t. $\vert \left\langle v, e_i \right\rangle \vert$ $= \left\langle v, a_i e_i \right\rangle$ , 于是
+</p>
+$$
+\left(\sum_i \vert \left\langle v, e_i \right\rangle \vert \right)^2
+$$
+$$
+= \left\langle v, \sum_i a_i e_i \right\rangle^2
+$$
+$$
+\leq \Vert v \Vert^2 \Vert \sum_i a_i e_i \Vert^2
+$$
+$$
+\leq \sum_{i,j} \vert a_i a_j \left\langle e_i, e_j \right\rangle \vert
+$$
+$$
+= \sum_{i,j} \vert \left\langle e_i, e_j \right\rangle \vert,
+$$
+<p>
+不等式得证.&emsp;$\Box$
+</p>
+
+<p>
+<b>Q:</b> 这里引入 $a_i$ 的作用是什么呢？
+</p>
+</div>
+
+<!-- foot copy -->
+<div id="footbar"></div>
+
+</body>
+</html>
