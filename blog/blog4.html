@@ -1,0 +1,122 @@
+<html>
+<head>  
+<meta charset="utf-8">
+<!--窗口自适应-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--网页标题和图标  -->
+<title>Cauchy积分定理的几何风证明</title>
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
+<!--导入图标库  -->
+<script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
+<!--LaTeX脚本-->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        displayMath: [['$$','$$']]
+        }
+});
+</script>
+<!--引入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
+<!--引用导航栏和页脚html  -->
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/bloghead.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
+<style>
+   body {
+     margin: 0;
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+     font-family: Verdana, sans-serif;
+   }
+</style>
+</head>
+
+<!--设置背景图片 -->
+<body background="" style="background-position:center top; background-repeat:no-repeat;">
+<!--顶部导航栏 -->
+<div id="headnav" style="position: sticky; top: 0px;"></div>
+<!--正文区块-->
+<img style="width:90%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/pseudo-perfect_%20world.jpeg" alt="封面 欧提努斯的完美世界" title="欧提努斯的完美世界">
+<div id="container" style="width:75%; margin: 0 auto; flex:1">
+<!--文章标题 -->
+<h1 style="margin-bottom:0">Cauchy积分定理的几何风证明</h1>
+<hr style="height:1px">
+<!--发布日期 -->
+<p>
+<font size="2">2024.3.14</font>
+</p>
+
+<p>
+今天是国际数学日，先祝你 $\pi$ day 快乐！数学当然离不开优雅，<em>Beauty is the first test</em>(Hardy). 复分析是数学中最优美的分支之一，那么本文介绍复分析的基本定理——Cauchy定理的一个灰常灰常优雅滴几何风证明.
+</p>
+
+<cite>
+<b>Cauchy定理.</b> 给定$\mathbb{C}$上的单连通区域$\Omega$，并有分段$C^1$边界$\partial \Omega$. 设$f\in C^{2}(\Omega)\cap C^{1}(\bar{\Omega})$并在$\Omega$上解析(也称全纯)，则
+$$
+\int_{\partial\Omega}f \ dz=0
+$$
+</cite>
+
+<p>
+<em>证明</em>. 设
+$$
+\frac{\partial}{\partial z}:=\frac{1}{2}(\frac{\partial}{\partial x}-i\frac{\partial}{\partial z}),
+$$
+$$
+\frac{\partial}{\partial \bar{z}}:=\frac{1}{2}(\frac{\partial}{\partial x}+i\frac{\partial}{\partial z})
+$$
+<p>
+这组切向量也是切空间$T\Omega$的一组基. 与之对偶的$1-$形式为$dz=dx+idy,d\bar{z}=dx-idy\in T^*{\Omega}$. 
+</p>
+
+<cite>
+<b>引理/练习.</b> 证明Cauchy-Riemann方程(即解析性)等价于 $\frac{\partial}{\partial \bar{z}}f=0$.
+</cite>
+
+<p>
+对任意$\zeta\in\Omega$，取$r>0$使得圆盘$B(\zeta,r)\subset\subset \Omega$. 那么$\frac{1}{z-\zeta}$在$\Omega_r:=\Omega\setminus B(\zeta,r)$上解析. 利用Stokes定理，
+</p>
+$$
+\int_{\Omega_r}\frac{\partial}{\partial \bar{z}}g \ dz\wedge d\bar{z}=\int_{\partial \Omega_r} g \ dz.
+$$
+<p>
+令$g=\frac{f}{z-\zeta}$可得
+</p>
+$$
+\int_{\Omega_r} \frac{\frac{\partial}{\partial \bar{z}}f}{z-\zeta} \ dz\wedge d\bar{z}
+$$
+$$
+=\int_{\partial\Omega} \frac{f}{z-\zeta} \ dz-i\int_{0}^{2\pi} f(\zeta+re^{i\theta}) \ d\theta.
+$$
+
+<p>
+$f$解析，所以上式第一行恒为$0$. 令$r\to 0$，则最后一项收敛于$2\pi if(\zeta)$，我们得到著名的<b>Cauchy积分公式</b>. 再将$f$替换为$(z-\zeta)f$就证明了Cauchy定理.&emsp;$\Box$
+</p>
+
+<p>
+<em>注</em>. 如果只要求$\partial \Omega$可求长，可以用一族$C^1$曲线从$\Omega$内部逼近$\partial \Omega$即可.
+</p>
+</div>
+
+<!-- foot copy -->
+<div id="footbar"></div>
+
+</body>
+</html>
