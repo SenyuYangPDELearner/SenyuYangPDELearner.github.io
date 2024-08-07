@@ -1,0 +1,120 @@
+<html>
+<head>  
+<meta charset="utf-8">
+<!--窗口自适应-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--网页标题和图标  -->
+<title>Bootstrap Method(baby ver.)</title>
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
+<!--导入图标库  -->
+<script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
+<!--LaTeX脚本-->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        displayMath: [['$$','$$']]
+        }
+});
+</script>
+<!--引入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
+<!--引用导航栏和页脚html  -->
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/bloghead.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('https://SenyuYangPDELearner.github.io/template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
+<style>
+   body {
+     margin: 0;
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+     font-family: Verdana, sans-serif;
+   }
+</style>
+</head>
+
+<!--设置背景图片 -->
+<body background="" style="background-position:center top; background-repeat:no-repeat;">
+<!--顶部导航栏 -->
+<div id="headnav" style="position: sticky; top: 0px;"></div>
+<!--正文区块-->
+<img style="width:100%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/blog/main/img/aleister-and-his-apprentices.png" alt="封面" title="亚雷斯塔和他的弟子们">
+<div id="container" style="width:75%; margin: 0 auto; flex:1">
+<!--文章标题 -->
+<h1 style="margin-bottom:0">Bootstrap Method(baby ver.)</h1>
+<hr style="height:1px">
+<!--发布日期 -->
+<p>
+<font size="2">2024.3.8</font>
+</p>
+
+<p>
+<font size=2 color="grey">因为要写作业写论文所以没想到什么好topic但是可以水几句不然博客没有一篇分析方向文章太不像PDE废柴了</font>
+</p>
+
+<p>
+以下是广为人知的<b>Grownwall不等式</b>，没有她可能会饿死很多PDE人（笑）
+</p>
+
+<cite>
+<b>定理.</b> 设连续函数$f:\mathbb{R}\to\mathbb{R}$，可积函数$g:\mathbb{R}\to\mathbb{R}$均恒正. 如果存在$A\geq 0$，对任意$t\in[0,T]$满足
+$$
+f(t)\leq A+\int_{0}^tf(s)g(s)ds,
+$$
+那么对任意$t\in[0,T]$，
+$$
+f(t)\leq Ae^{\int_0^t g(s)ds}
+$$
+</cite>
+
+<p>
+当然可以直接用微分不等式的方法证明，这是经典的数分习题. 但这里我们采用更冗长——但更符合定理本性也更普适的<em>bootstrap method</em>，即反馈机制对系统本身的控制. 这个想法在诸如小初值全局解存在性，弱解正则性的提升，方程各项之间的耦合等PDE问题中都会体现. 证明基于一个拓扑事实.
+</p>
+
+<cite>
+<b>引理.</b> 设拓扑空间$X$连通，则$X$中既开又闭的子集要么是空集，要么是$X$本身.
+</cite>
+
+<p>
+在定理中$X=[0,T]$. 子集的构造不那么显然：对任意$\epsilon>0$，考虑以下条件(induction hypothesis)</p>
+$$
+f(t)\leq (1+\epsilon)Ae^{(1+\epsilon)\int_0^t g(s)ds}.\tag{B}
+$$
+<p>
+定义$O:=\{t\in[0,T]: \forall s\in[0,t], f(s)满足(B)\}$，我们希望$O=[0,T]$. $0\in O$，所以$O$非空；$f(t),\int_0^tg\,ds$连续，所以$O$是闭集；
+开性是证明的关键. 设$t\in O$，我们把$(B)$代入定理的条件：</p>
+$$
+f(t)\leq A+A\int_{0}^te^{(1+\epsilon)\int_0^s g(y)dy}\cdot (1+\epsilon)g(s)ds
+$$
+$$
+=Ae^{(1+\epsilon)\int_0^t g(s)ds}<(1+\epsilon)Ae^{(1+\epsilon)\int_0^t g(s)ds}.
+$$
+<p>
+由$f$连续性可知存在$\delta>0$, $[0,t+\delta)\subset O$. 所以$O$是开集. 综上可知$O=[0,T]$，令$\epsilon\to 0$即得到Grownwall不等式.&emsp;$\Box$
+</p>
+  
+<p>
+<b>Q:</b> 如果直接把定理结论作为条件$(B)$，证明会出现什么问题?
+</p>  
+</div>
+
+<!-- foot copy -->
+<div id="footbar"></div>
+
+</body>
+</html>
