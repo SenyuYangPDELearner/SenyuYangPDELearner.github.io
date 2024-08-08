@@ -10,6 +10,7 @@ a:link, a:visited{
   list-style-type: none;
   background-color: rgb(32,33,36);
   overflow: hidden;
+  z-index:0;
   }
 .navbar b{
   color: white;
