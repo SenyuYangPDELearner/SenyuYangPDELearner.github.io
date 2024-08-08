@@ -23,7 +23,7 @@ MathJax.Hub.Config({
 <link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
 <!--引用导航栏和页脚html  -->
 <script>
-        fetch('https://SenyuYangPDELearner.github.io/template/bloghomehead.html')
+        fetch('https://SenyuYangPDELearner.github.io/template/bloghead.html')
             .then(response => response.text())
             .then(data => {
                 document.querySelector('#headnav').innerHTML = data;
@@ -99,52 +99,85 @@ MathJax.Hub.Config({
     <p><a href="https://senyuyangpdelearner.github.io/blog/blog8.html" target="_self">Brezis-Lieb引理与一个变分问题</a>&ensp;<font size=2>2024.7.17</font></p>
     <p style="font-size:small; color:rgb(128,128,128)">纪念H. Brezis教授. 介绍一道实分析经典习题的背景.</p>
     </li>
+
+    <li>
+    <p>Bourgain的魔法：<a href="https://senyuyangpdelearner.github.io/blog/blog7.html" target="_self">一个Szemerédi型定理与调和分析</a>&ensp;<font size=2>2024.7.3</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">Bourgain的两个好工具：定量化和(二进)抽屉原理.</p>
+    </li>
+  
+    <li>
+    <p>Bourgain的魔法：<a href="https://senyuyangpdelearner.github.io/blog/blog6.html" target="_self">一道2024年丘赛题与双线性Strichartz估计</a>&ensp;<font size=2>2024.6.28</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">令人惊喜的试题有着深刻的研究背景.</p>
+    </li>
+
+    <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog5.html" target="_self">Littlewood-Paley定理的随机化证明</a>&ensp;<font size="2">2024.5.12</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">将分析对象随机化的一个美妙范例. </p>
+    </li>
+  
+    <li>
+    <p>($\pi$ day)<a href="https://senyuyangpdelearner.github.io/blog/blog4.html" target="_self">Cauchy积分定理的几何风证明</a>&ensp;<font size="2">2024.3.14</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">用微分流形的语言重写了C-R方程，自然地将定理与Stokes公式联系起来.</p>
+    </li>
+  
+    <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog3.html" target="_self">Bootstrap Method(baby ver.)</a>&ensp;<font size="2">2024.3.8</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">小试牛刀给出Grownwall不等式的一种证明.</p>
+    </li>
+    
   </ol>
 </div>
 
+<p></p>
 
-<ol reversed>
+<button type="button" class="collapsible">几何&拓扑</button>
+<div class="content">
+  <ol reversed>
+    <li>
+    <p>($\pi$ day)<a href="https://senyuyangpdelearner.github.io/blog/blog4.html" target="_self">Cauchy积分定理的几何风证明</a>&ensp;<font size="2">2024.3.14</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">用微分流形的语言重写了C-R方程，自然地将定理与Stokes公式联系起来.</p>
+    </li>
+    
+    <li>
+    <p>(创刊)<a href="https://senyuyangpdelearner.github.io/blog/blog1.html" target="_self">照亮球的外表面需要多少盏灯</a>&ensp;<font size="2">2024.2.12</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">一个中学立体几何的问题和拓扑学的Bosuk-Ulam定理产生了联系.</p>
+    </li>
+  </ol>
+</div>
+
+<p></p>
+
+<button type="button" class="collapsible">概率&组合</button>
+<div class="content">
+  <ol reversed>
+    <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog9.html" target="_self">Van der Corput不等式</a>&ensp;<font size=2>2024.7.18</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">随手记下一个内积不等式.</p>
+    </li>
+    
+    <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog5.html" target="_self">Littlewood-Paley定理的随机化证明</a>&ensp;<font size="2">2024.5.12</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">将分析对象随机化的一个美妙范例. </p>
+    </li>
+    
+    <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog2.html" target="_self">多项式方法与有限域Kakeya猜想</a>&ensp;<font size="2">2024.2.19</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">详细地展示了Dvir的proof from the Book.</p>
+    </li>
+  </ol>
+</div>
+
+<p></p>
   
+<button type="button" class="collapsible">物理</button>
+<div class="content">
+  <ol reversed>
   <li>
     <p><a href="https://senyuyangpdelearner.github.io/blog/blog10.html" target="_self">线代作业题：1维Ising模型的配分函数</a>&ensp;<font size=2>2024.8.1</font></p>
     <p style="font-size:small; color:rgb(128,128,128)">来自统计物理的一个计算问题，虽然水还是写一下吧.</p>
   </li>
-  
-  <li>
-    <p>Bourgain的魔法：<a href="https://senyuyangpdelearner.github.io/blog/blog7.html" target="_self">一个Szemerédi型定理与调和分析</a>&ensp;<font size=2>2024.7.3</font></p>
-    <p style="font-size:small; color:rgb(128,128,128)">Bourgain的两个好工具：定量化和(二进)抽屉原理.</p>
-  </li>
-  
-  <li>
-    <p>Bourgain的魔法：<a href="https://senyuyangpdelearner.github.io/blog/blog6.html" target="_self">一道2024年丘赛题与双线性Strichartz估计</a>&ensp;<font size=2>2024.6.28</font></p>
-    <p style="font-size:small; color:rgb(128,128,128)">令人惊喜的试题有着深刻的研究背景.</p>
-  </li>
-  
-  <li>
-    <p><a href="https://senyuyangpdelearner.github.io/blog/blog5.html" target="_self">Littlewood-Paley定理的随机化证明</a>&ensp;<font size="2">2024.5.12</font> </p>
-    <p style="font-size:small; color:rgb(128,128,128)">将分析对象随机化的一个美妙范例. </p>
-  </li>
-  
-  <li>
-    <p>($\pi$ day)<a href="https://senyuyangpdelearner.github.io/blog/blog4.html" target="_self">Cauchy积分定理的几何风证明</a>&ensp;<font size="2">2024.3.14</font> </p>
-    <p style="font-size:small; color:rgb(128,128,128)">用微分流形的语言重写了C-R方程，自然地将定理与Stokes公式联系起来.</p>
-  </li>
-  
-  <li>
-    <p><a href="https://senyuyangpdelearner.github.io/blog/blog3.html" target="_self">Bootstrap Method(baby ver.)</a>&ensp;<font size="2">2024.3.8</font> </p>
-    <p style="font-size:small; color:rgb(128,128,128)">小试牛刀给出Grownwall不等式的一种证明.</p>
-  </li>
-  
-  <li>
-    <p><a href="https://senyuyangpdelearner.github.io/blog/blog2.html" target="_self">多项式方法与有限域Kakeya猜想</a>&ensp;<font size="2">2024.2.19</font></p>
-    <p style="font-size:small; color:rgb(128,128,128)">详细地展示了Dvir的proof from the Book.</p>
-  </li>
-  
-  <li>
-    <p>(创刊)<a href="https://senyuyangpdelearner.github.io/blog/blog1.html" target="_self">照亮球的外表面需要多少盏灯</a>&ensp;<font size="2">2024.2.12</font> </p>
-    <p style="font-size:small; color:rgb(128,128,128)">一个中学立体几何的问题和拓扑学的Bosuk-Ulam定理产生了联系.</p>
-  </li>
-</ol>
+  </ol>
+</div>
 
 </div>
   
