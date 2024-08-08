@@ -9,8 +9,7 @@
 
 .dropdown {
     float: right;
-    display: inline-block;
-    z-index:999;
+    display: inline-block;;
 }
 
 .dropdown-content {
@@ -36,4 +35,7 @@
 
 .dropdown:hover .dropdown-content {
     display: block;
+    position: absolute;
+    right: 0;
+    z-index: 999;
 }
