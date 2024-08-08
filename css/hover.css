@@ -1,17 +1,12 @@
 .dropdown {
   float: right;
-  overflow: hidden;
-}
-
-.dropdown .dropbtn {
   color: white;
-  display: block;
-  float: right;
-  text-decoration: none;
+  overflow: hidden;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
   padding-left: 1%;
   padding-right: 2%;
+  text-decoration: none;
 }
 
 .dropdown-content {
