@@ -1,0 +1,170 @@
+<html>
+<head>  
+<meta charset="utf-8">
+<!--窗口自适应-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--网页标题和图标  -->
+<title>燕石志 | Math Blog</title>
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
+<!--导入图标库  -->
+  <script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
+<!--引入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!--LaTeX脚本-->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        displayMath: [['$$','$$']]
+        }
+});
+</script>
+<!--导航栏和页脚html  -->
+<script>
+        fetch('template/bloghomehead.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
+<style>
+   body {
+     margin: 0;
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+     font-family: Verdana, sans-serif;
+   }
+  .collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* 如果单击按钮，则为按钮添加背景颜色（使用 JS 添加 .active 类），并且当您将鼠标移到按钮上时（悬停） */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* 设置可折叠内容的样式。 注意:默认隐藏 */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
+</style>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</head>
+  
+<!--设置背景图片 -->
+<body background="" style="background-position:center top; background-repeat:no-repeat;">
+<!--顶部导航栏 -->
+<div id="headnav" style="position: sticky; top: 0px;"></div>
+<!--封面 -->
+<img style="width:100%; margin: 0 auto;" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/img/secretsealing-pid86537675.jpg" alt="封面 pid:86537675" title="秘封组是好文明 pid:86537675" >
+<!--正文区块-->
+<div id="container" style="width:75%; margin: 0 auto; flex: 1">
+<h1 style="margin-bottom: 0; margin-top: 30px">燕石志 | Math Blog</h1>
+<hr style="height:1px">
+
+<button type="button" class="collapsible">分析&微分方程</button>
+<div class="content">
+  <ol reversed>
+    <li>
+    <p>Bourgain的魔法: 有理环面上的薛定谔方程</p>
+    <p style="font-size:small; color:rgb(128,128,128)">To be released...</p>
+    </li>
+
+    <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog9.html" target="_self">Van der Corput不等式</a>&ensp;<font size=2>2024.7.18</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">随手记下一个内积不等式.</p>
+    </li>
+
+    <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog8.html" target="_self">Brezis-Lieb引理与一个变分问题</a>&ensp;<font size=2>2024.7.17</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">纪念H. Brezis教授. 介绍一道实分析经典习题的背景.</p>
+    </li>
+  </ol>
+</div>
+
+
+<ol reversed>
+  
+  <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog10.html" target="_self">线代作业题：1维Ising模型的配分函数</a>&ensp;<font size=2>2024.8.1</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">来自统计物理的一个计算问题，虽然水还是写一下吧.</p>
+  </li>
+  
+  <li>
+    <p>Bourgain的魔法：<a href="https://senyuyangpdelearner.github.io/blog/blog7.html" target="_self">一个Szemerédi型定理与调和分析</a>&ensp;<font size=2>2024.7.3</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">Bourgain的两个好工具：定量化和(二进)抽屉原理.</p>
+  </li>
+  
+  <li>
+    <p>Bourgain的魔法：<a href="https://senyuyangpdelearner.github.io/blog/blog6.html" target="_self">一道2024年丘赛题与双线性Strichartz估计</a>&ensp;<font size=2>2024.6.28</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">令人惊喜的试题有着深刻的研究背景.</p>
+  </li>
+  
+  <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog5.html" target="_self">Littlewood-Paley定理的随机化证明</a>&ensp;<font size="2">2024.5.12</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">将分析对象随机化的一个美妙范例. </p>
+  </li>
+  
+  <li>
+    <p>($\pi$ day)<a href="https://senyuyangpdelearner.github.io/blog/blog4.html" target="_self">Cauchy积分定理的几何风证明</a>&ensp;<font size="2">2024.3.14</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">用微分流形的语言重写了C-R方程，自然地将定理与Stokes公式联系起来.</p>
+  </li>
+  
+  <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog3.html" target="_self">Bootstrap Method(baby ver.)</a>&ensp;<font size="2">2024.3.8</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">小试牛刀给出Grownwall不等式的一种证明.</p>
+  </li>
+  
+  <li>
+    <p><a href="https://senyuyangpdelearner.github.io/blog/blog2.html" target="_self">多项式方法与有限域Kakeya猜想</a>&ensp;<font size="2">2024.2.19</font></p>
+    <p style="font-size:small; color:rgb(128,128,128)">详细地展示了Dvir的proof from the Book.</p>
+  </li>
+  
+  <li>
+    <p>(创刊)<a href="https://senyuyangpdelearner.github.io/blog/blog1.html" target="_self">照亮球的外表面需要多少盏灯</a>&ensp;<font size="2">2024.2.12</font> </p>
+    <p style="font-size:small; color:rgb(128,128,128)">一个中学立体几何的问题和拓扑学的Bosuk-Ulam定理产生了联系.</p>
+  </li>
+</ol>
+
+</div>
+
+<div id="footbar"></div>
+
+</body>
+</html>
