@@ -1,5 +1,5 @@
 .dropdown {
-  float: left;
+  float: right;
   overflow: hidden;
 }
 
@@ -12,6 +12,10 @@
   background-color: inherit;
   font-family: inherit;
   margin: 0;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: white;
 }
 
 .dropdown-content {
