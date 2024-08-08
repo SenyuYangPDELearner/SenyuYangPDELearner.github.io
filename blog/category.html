@@ -4,14 +4,12 @@
 <!--窗口自适应-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--网页标题和图标  -->
-<title>燕石志 | Math Blog</title>
+<title>照亮球的外表面需要多少盏灯</title>
 <link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
 <!--导入图标库  -->
   <script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
-<!--引入CSS文件  -->
-<link rel="stylesheet" type="text/css" href="css/style.css">
 <!--LaTeX脚本-->
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
         tex2jax: {
@@ -21,16 +19,18 @@ MathJax.Hub.Config({
         }
 });
 </script>
-<!--导航栏和页脚html  -->
+<!--引入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
+<!--引用导航栏和页脚html  -->
 <script>
-        fetch('template/bloghomehead.html')
+        fetch('https://SenyuYangPDELearner.github.io/template/bloghomehead.html')
             .then(response => response.text())
             .then(data => {
                 document.querySelector('#headnav').innerHTML = data;
             });
 </script>
 <script>
-        fetch('template/foot.html')
+        fetch('https://SenyuYangPDELearner.github.io/template/foot.html')
             .then(response => response.text())
             .then(data => {
                 document.querySelector('#footbar').innerHTML = data;
