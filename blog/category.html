@@ -45,6 +45,8 @@ MathJax.Hub.Config({
      flex-direction: column;
      font-family: Verdana, sans-serif;
    }
+
+/*  可折叠内容  */
   .collapsible {
   background-color: #eee;
   color: #444;
@@ -61,7 +63,20 @@ MathJax.Hub.Config({
 .active, .collapsible:hover {
   background-color: #ccc;
 }
+  
+/* 图标+和- */
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
 
+.active:after {
+  content: "\2212";
+}
+  
 /* 设置可折叠内容的样式。 注意:默认隐藏 */
 .content {
   padding: 0 18px;
@@ -180,7 +195,8 @@ MathJax.Hub.Config({
 </div>
 
 </div>
-  
+
+<!-- 折叠脚本 -->
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
