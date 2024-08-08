@@ -3,11 +3,15 @@
   overflow: hidden;
 }
 
-.dropdown .dropbtn { 
+.dropdown .dropbtn {
+  font-size: medium;
   border: none;
   outline: none;
   color: white;
-  padding: 14px 16px;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  padding-left: 1%;
+  padding-right: 2%;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
@@ -31,4 +35,6 @@
   text-align: left;
 }
 
+.dropdown:hover .dropdown-content {
+  display: block;
 }
