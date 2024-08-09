@@ -13,20 +13,7 @@
 <!--MathJax脚本-->
 <script src="js/math-config.js" async></script>
 <!--导航栏和页脚html  -->
-<script>
-        fetch('template/bloghomehead.html')
-            .then(response => response.text())
-            .then(data => {
-                document.querySelector('#headnav').innerHTML = data;
-            });
-</script>
-<script>
-        fetch('template/foot.html')
-            .then(response => response.text())
-            .then(data => {
-                document.querySelector('#footbar').innerHTML = data;
-            });
-</script>
+<script src="js/fetch-bloghome.js"></script>
 </head>
 
 <body>
