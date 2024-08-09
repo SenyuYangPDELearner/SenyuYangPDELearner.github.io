@@ -8,24 +8,12 @@
 <link rel="shortcut icon" href="favicon.ico">
 <!--导入图标库  -->
   <script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
-<!--LaTeX脚本-->
+<!--MathJax脚本-->
 <script src="js/math-config.js" async></script>
-<!--引入CSS文件  -->
+<!--导航栏和整体样式  -->
 <link rel="stylesheet" type="text/css" href="css/style.css">
-<!--引用导航栏和页脚html  -->
-<script>
-        fetch('template/head.html')
-            .then(response => response.text())
-            .then(data => {
-                document.querySelector('#headnav').innerHTML = data;
-            });
-        fetch('template/foot.html')
-            .then(response => response.text())
-            .then(data => {
-                document.querySelector('#footbar').innerHTML = data;
-            });
-</script>
-<!--整体样式-->
+<!--导入导航栏和页脚html  -->
+<script src="js/fetch-home.js"></script>
 <!-- 暗锚点，防止被导航栏遮挡 -->
 <style>
   .top{
@@ -39,7 +27,7 @@
 <!--顶部导航栏 -->
 <div id="headnav" style="position: sticky; top: 0px;"></div>
 <!--封面  -->
-<img style="width:100%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/img/aleistercrowley-BV12X4y1K7bh.png" alt="封面" title="Aleister Crowley，来自魔禁手书【始终如一的魔法师】BV12X4y1K7bh">
+<img style="width:100%; margin: 0 auto" src="img/aleistercrowley-BV12X4y1K7bh.png" alt="封面" title="Aleister Crowley，来自魔禁手书【始终如一的魔法师】BV12X4y1K7bh">
 <!--正文区块 -->  
 <div id="container" style="width:75%; margin: 0 auto; flex: 1">
   
