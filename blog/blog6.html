@@ -4,50 +4,26 @@
 <!--窗口自适应-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--网页标题和图标  -->
-<title>Bourgain的魔法：一道2024年丘赛题与双线性Strichartz估计</title>
+<title>Bourgain的魔法：一道丘赛题与双线性Strichartz估计</title>
 <link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
 <!--导入图标库  -->
 <script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
 <!--MathJax脚本-->
 <script src="https://senyuyangpdelearner.github.io/js/math-config.js" async></script>
-<!--导航栏CSS文件  -->
+<!--导航栏和整体样式  -->
 <link rel="stylesheet" type="text/css" href="https://SenyuYangPDELearner.github.io/css/style.css">
-<!--引用导航栏和页脚html  -->
-<script>
-        fetch('https://SenyuYangPDELearner.github.io/template/bloghead.html')
-            .then(response => response.text())
-            .then(data => {
-                document.querySelector('#headnav').innerHTML = data;
-            });
-</script>
-<script>
-        fetch('https://SenyuYangPDELearner.github.io/template/foot.html')
-            .then(response => response.text())
-            .then(data => {
-                document.querySelector('#footbar').innerHTML = data;
-            });
-</script>
-<!--整体样式-->
-<style>
-   body {
-     margin: 0;
-     min-height: 100%;
-     display: flex;
-     flex-direction: column;
-     font-family: Verdana, sans-serif;
-   }
-</style>
+<!--导入导航栏和页脚html  -->
+<script src="https://senyuyangpdelearner.github.io/js/fetch-blog.js"></script>
 </head>
-
-<!--设置背景图片 -->
-<body background="" style="background-position:center top; background-repeat:no-repeat;">
+        
+<body>
 <!--顶部导航栏 -->
 <div id="headnav" style="position: sticky; top: 0px;"></div>
 <!--正文区块-->
 <img style="width:95%; margin: 0 auto" src="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/img/Bourgaincover.jpg" alt="封面 J. Bourgain" title="J. Bourgain">
 <div id="container" style="width:75%; margin: 0 auto; flex:1">
 <!--文章标题 -->
-<h1 style="margin-bottom:0">Bourgain的魔法：一道2024年丘赛题与双线性Strichartz估计</h1>
+<h1 style="margin-bottom:0">Bourgain的魔法：一道丘赛题与双线性Strichartz估计</h1>
 <hr style="height:1px">
 <!--发布日期 -->
 <p>
